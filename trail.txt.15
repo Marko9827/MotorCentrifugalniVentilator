@@ -1,0 +1,50 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2016 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 3108
+!	Application: Creo_Simulate
+!	Start date&time: 2016/12/23  14:11:46
+!	language: usascii
+!	machine type: i486_nt
+!	datecode: M010
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\traceback.log
+!end Exit Logger data.
+< 0 0.843852 1236 0 0 712 1366 0 0 768 13
+!mem_use INCREASE Blocks 609946, AppSize 46528286, SysSize 59085952
+< 0 0.634074 1117 0 0 535 1366 0 0 768 13
+< 0 0.634074 1005 0 0 535 1366 0 0 768 13
+!%CIWelcome to PTC Creo Simulate 3.0.
+#PART
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.13
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!23-Dec-16 14:11:58  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.13
+!LIGHT_FIX_MODEL_RMODE is 51
+!23-Dec-16 14:12:00  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.13
+!%CIPart 'MOTOR_SA_CENTRIFUGALNIMVENTILAT' not changed since last regen.
+!Mech #
+!Mech # Creo Simulate Command Script File
+!Mech #    Product:		Creo Simulate P-20-60:spg
+!Mech #    Created:		12/23/16 at 14:12:12
+!Mech #    Machine:		i486_nt
+!Mech #    OS:  		Windows XP Service Pack 2
+!Mech #    Graphics:		opengl/window0
+!Mech #
+!Mech #    Language:		(usascii)
+!Mech #
+!%CIEntering Creo Simulate for the model MOTOR_SA_CENTRIFUGALNIMVENTILAT.PRT...
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG). 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+!mem_use INCREASE Blocks 681066, AppSize 97005001, SysSize 114769352
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+~ Activate `save_objects_dlg` `NoPush`
+!End of Trail File

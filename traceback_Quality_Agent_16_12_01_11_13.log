@@ -1,0 +1,31 @@
+-------------------------------------------------
+The trace creation timestamp is: Thu Dec 01 11:13:45 16
+The executable build timestamp is: Tue Oct 14 17:08:43 14
+The datecode is: 2014350
+The pro machine type is: i486_nt
+The process ID is: 2364
+The traceback type is : CRASH
+-------------------------------------------------
+Exception EXCEPTION_ACCESS_VIOLATION has occurred in the thread 3364.
+
+Main Thread 3364
+=====================
+0x004D6A83	NULL (NULL:0) (qualityagent:0x00400000) ( 0x278d00, 0x2, 0x12fd90, 0x12ff0c ) 
+0x004D6C61	NULL (NULL:0) (qualityagent:0x00400000) ( 0x0, 0x1a2a82, 0x0, 0x10514a4 ) 
+0x004D0F12	NULL (NULL:0) (qualityagent:0x00400000) ( 0x2, 0x0, 0x0, 0x1a2a82 ) 
+0x004CFE34	NULL (NULL:0) (qualityagent:0x00400000) ( 0x2, 0x1a9678, 0x1aedc8, 0x12ff70 ) 
+0x004D5813	NULL (NULL:0) (qualityagent:0x00400000) ( 0x400000, 0x0, 0x162352, 0x0 ) 
+0x004BA04C	NULL (NULL:0) (qualityagent:0x00400000) ( 0x0, 0x0, 0x7ffdf000, 0x8054a6ed ) 
+
+Thread 1772
+=====================
+0x7C90EB94	NULL (NULL:0) (ntdll:0x7C900000) ( 0x2caffa8, 0x77e76a3b, 0x1e2008, 0x12c780 ) 
+0x77E76C22	NULL (NULL:0) (RPCRT4:0x77E70000) ( 0x1e2008, 0x12c780, 0x12c7c8, 0x1d97d0 ) 
+0x77E76A3B	NULL (NULL:0) (RPCRT4:0x77E70000) ( 0x1d4168, 0x2caffec, 0x7c80b50b, 0x1d97d0 ) 
+0x77E76C0A	NULL (NULL:0) (RPCRT4:0x77E70000) ( 0x1d97d0, 0x12c780, 0x12c7c8, 0x1d97d0 ) 
+
+Thread 556
+=====================
+0x7C90EB94	NULL (NULL:0) (ntdll:0x7C900000) ( 0xea60, 0x0, 0x2daffb4, 0x774f2fcb ) 
+0x7C802451	NULL (NULL:0) (kernel32:0x7C800000) ( 0xea60, 0x1d8a90, 0x774f314d, 0x0 ) 
+0x774F2FCB	NULL (NULL:0) (ole32:0x774E0000) ( 0x1d8a90, 0x7c910945, 0x160178, 0x1d8a90 ) 

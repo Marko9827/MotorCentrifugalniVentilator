@@ -1,0 +1,1300 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2016 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 3300
+!	Application: Creo_Parametric
+!	Start date&time: 2016/12/22  15:58:58
+!	language: usascii
+!	machine type: i486_nt
+!	datecode: M010
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\traceback.log
+!end Exit Logger data.
+< 0 0.843852 1236 0 0 712 1366 0 0 768 13
+!mem_use INCREASE Blocks 612761, AppSize 46735912, SysSize 59294760
+< 0 0.634074 1117 0 0 535 1366 0 0 768 13
+< 0 0.634074 1005 0 0 535 1366 0 0 768 13
+!%CIWelcome to PTC Creo Parametric 3.0.
+#PART
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.1
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!22-Dec-16 15:59:02  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.1
+!22-Dec-16 15:59:02  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.1
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG). 
+~ Activate `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+!mem_use INCREASE Blocks 687122, AppSize 96095062, SysSize 113199016
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+< 0 0.643556 1135 0 0 543 1366 0 0 768 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+~ Move `main_dlg_cur` `main_dlg_cur` 0
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 374 187 0 2 1135 543 1366 768 9249
+~ Move `main_dlg_cur` `proe_win` 9 373 187 0 514 1135 543 1366 768 9311
+~ Move `main_dlg_cur` `proe_win` 9 372 188 0 1538 1135 543 1366 768 9326
+~ Move `main_dlg_cur` `proe_win` 9 371 189 0 1538 1135 543 1366 768 9342
+~ Move `main_dlg_cur` `proe_win` 9 370 190 0 1538 1135 543 1366 768 9357
+~ Move `main_dlg_cur` `proe_win` 9 370 191 0 1026 1135 543 1366 768 9373
+~ Move `main_dlg_cur` `proe_win` 9 368 194 0 1538 1135 543 1366 768 9373
+~ Move `main_dlg_cur` `proe_win` 9 366 197 0 1538 1135 543 1366 768 9388
+~ Move `main_dlg_cur` `proe_win` 9 363 200 0 1538 1135 543 1366 768 9388
+~ Move `main_dlg_cur` `proe_win` 9 359 206 0 1538 1135 543 1366 768 9404
+~ Move `main_dlg_cur` `proe_win` 9 355 212 0 1538 1135 543 1366 768 9404
+~ Move `main_dlg_cur` `proe_win` 9 351 217 0 1538 1135 543 1366 768 9419
+~ Move `main_dlg_cur` `proe_win` 9 347 223 0 1538 1135 543 1366 768 9419
+~ Move `main_dlg_cur` `proe_win` 9 343 228 0 1538 1135 543 1366 768 9435
+~ Move `main_dlg_cur` `proe_win` 9 339 234 0 1538 1135 543 1366 768 9435
+~ Move `main_dlg_cur` `proe_win` 9 334 239 0 1538 1135 543 1366 768 9450
+~ Move `main_dlg_cur` `proe_win` 9 331 244 0 1538 1135 543 1366 768 9450
+~ Move `main_dlg_cur` `proe_win` 9 327 249 0 1538 1135 543 1366 768 9466
+~ Move `main_dlg_cur` `proe_win` 9 323 252 0 1538 1135 543 1366 768 9466
+~ Move `main_dlg_cur` `proe_win` 9 319 256 0 1538 1135 543 1366 768 9481
+~ Move `main_dlg_cur` `proe_win` 9 317 259 0 1538 1135 543 1366 768 9481
+~ Move `main_dlg_cur` `proe_win` 9 313 263 0 1538 1135 543 1366 768 9497
+~ Move `main_dlg_cur` `proe_win` 9 311 265 0 1538 1135 543 1366 768 9497
+~ Move `main_dlg_cur` `proe_win` 9 309 268 0 1538 1135 543 1366 768 9512
+~ Move `main_dlg_cur` `proe_win` 9 306 270 0 1538 1135 543 1366 768 9512
+~ Move `main_dlg_cur` `proe_win` 9 304 271 0 1538 1135 543 1366 768 9528
+~ Move `main_dlg_cur` `proe_win` 9 302 274 0 1538 1135 543 1366 768 9528
+~ Move `main_dlg_cur` `proe_win` 9 300 275 0 1538 1135 543 1366 768 9543
+~ Move `main_dlg_cur` `proe_win` 9 298 277 0 1538 1135 543 1366 768 9543
+~ Move `main_dlg_cur` `proe_win` 9 296 279 0 1538 1135 543 1366 768 9559
+~ Move `main_dlg_cur` `proe_win` 9 294 281 0 1538 1135 543 1366 768 9559
+~ Move `main_dlg_cur` `proe_win` 9 293 283 0 1538 1135 543 1366 768 9574
+~ Move `main_dlg_cur` `proe_win` 9 292 283 0 514 1135 543 1366 768 9574
+~ Move `main_dlg_cur` `proe_win` 9 291 285 0 1538 1135 543 1366 768 9590
+~ Move `main_dlg_cur` `proe_win` 9 289 285 0 514 1135 543 1366 768 9590
+~ Move `main_dlg_cur` `proe_win` 9 289 287 0 1026 1135 543 1366 768 9606
+~ Move `main_dlg_cur` `proe_win` 9 287 288 0 1538 1135 543 1366 768 9606
+~ Move `main_dlg_cur` `proe_win` 9 286 290 0 1538 1135 543 1366 768 9621
+~ Move `main_dlg_cur` `proe_win` 9 285 291 0 1538 1135 543 1366 768 9621
+~ Move `main_dlg_cur` `proe_win` 9 284 292 0 1538 1135 543 1366 768 9637
+~ Move `main_dlg_cur` `proe_win` 9 283 294 0 1538 1135 543 1366 768 9637
+~ Move `main_dlg_cur` `proe_win` 9 282 295 0 1538 1135 543 1366 768 9652
+~ Move `main_dlg_cur` `proe_win` 9 281 296 0 1538 1135 543 1366 768 9652
+~ Move `main_dlg_cur` `proe_win` 9 279 298 0 1538 1135 543 1366 768 9668
+~ Move `main_dlg_cur` `proe_win` 9 278 299 0 1538 1135 543 1366 768 9699
+~ Move `main_dlg_cur` `proe_win` 9 277 299 0 514 1135 543 1366 768 9714
+~ Move `main_dlg_cur` `proe_win` 9 276 299 0 514 1135 543 1366 768 9730
+~ Move `main_dlg_cur` `proe_win` 9 275 299 0 514 1135 543 1366 768 9807
+~ Move `main_dlg_cur` `proe_win` 9 274 299 0 514 1135 543 1366 768 9823
+~ Move `main_dlg_cur` `proe_win` 9 274 300 0 1026 1135 543 1366 768 9854
+~ Move `main_dlg_cur` `proe_win` 9 274 299 0 1026 1135 543 1366 768 9931
+~ Move `main_dlg_cur` `proe_win` 9 275 299 0 514 1135 543 1366 768 9947
+~ Move `main_dlg_cur` `proe_win` 9 276 297 0 1538 1135 543 1366 768 9947
+~ Move `main_dlg_cur` `proe_win` 9 278 295 0 1538 1135 543 1366 768 9962
+~ Move `main_dlg_cur` `proe_win` 9 283 291 0 1538 1135 543 1366 768 9962
+~ Move `main_dlg_cur` `proe_win` 9 288 287 0 1538 1135 543 1366 768 9978
+~ Move `main_dlg_cur` `proe_win` 9 294 282 0 1538 1135 543 1366 768 9978
+~ Move `main_dlg_cur` `proe_win` 9 299 278 0 1538 1135 543 1366 768 9993
+~ Move `main_dlg_cur` `proe_win` 9 304 274 0 1538 1135 543 1366 768 9993
+~ Move `main_dlg_cur` `proe_win` 9 310 270 0 1538 1135 543 1366 768 10009
+~ Move `main_dlg_cur` `proe_win` 9 313 267 0 1538 1135 543 1366 768 10009
+~ Move `main_dlg_cur` `proe_win` 9 318 264 0 1538 1135 543 1366 768 10024
+~ Move `main_dlg_cur` `proe_win` 9 322 260 0 1538 1135 543 1366 768 10040
+~ Move `main_dlg_cur` `proe_win` 9 324 258 0 1538 1135 543 1366 768 10040
+~ Move `main_dlg_cur` `proe_win` 9 327 255 0 1538 1135 543 1366 768 10056
+~ Move `main_dlg_cur` `proe_win` 9 330 252 0 1538 1135 543 1366 768 10056
+~ Move `main_dlg_cur` `proe_win` 9 334 249 0 1538 1135 543 1366 768 10071
+~ Move `main_dlg_cur` `proe_win` 9 337 247 0 1538 1135 543 1366 768 10071
+~ Move `main_dlg_cur` `proe_win` 9 339 244 0 1538 1135 543 1366 768 10087
+~ Move `main_dlg_cur` `proe_win` 9 342 242 0 1538 1135 543 1366 768 10087
+~ Move `main_dlg_cur` `proe_win` 9 345 239 0 1538 1135 543 1366 768 10102
+~ Move `main_dlg_cur` `proe_win` 9 347 237 0 1538 1135 543 1366 768 10102
+~ Move `main_dlg_cur` `proe_win` 9 350 235 0 1538 1135 543 1366 768 10118
+~ Move `main_dlg_cur` `proe_win` 9 352 233 0 1538 1135 543 1366 768 10118
+~ Move `main_dlg_cur` `proe_win` 9 353 233 0 514 1135 543 1366 768 10133
+~ Move `main_dlg_cur` `proe_win` 9 353 232 0 1026 1135 543 1366 768 10133
+~ Move `main_dlg_cur` `proe_win` 9 354 232 0 514 1135 543 1366 768 10149
+~ Move `main_dlg_cur` `proe_win` 9 355 232 0 514 1135 543 1366 768 10164
+~ Move `main_dlg_cur` `proe_win` 9 355 231 0 1026 1135 543 1366 768 10164
+~ Move `main_dlg_cur` `proe_win` 9 355 230 0 1026 1135 543 1366 768 10180
+~ Move `main_dlg_cur` `proe_win` 9 355 229 0 1026 1135 543 1366 768 10195
+~ Move `main_dlg_cur` `proe_win` 9 355 228 0 1026 1135 543 1366 768 10211
+~ Move `main_dlg_cur` `proe_win` 9 356 227 0 1538 1135 543 1366 768 10226
+~ Move `main_dlg_cur` `proe_win` 9 356 226 0 1026 1135 543 1366 768 10226
+~ Move `main_dlg_cur` `proe_win` 9 357 224 0 1538 1135 543 1366 768 10242
+~ Move `main_dlg_cur` `proe_win` 9 359 221 0 1538 1135 543 1366 768 10242
+~ Move `main_dlg_cur` `proe_win` 9 359 219 0 1026 1135 543 1366 768 10257
+~ Move `main_dlg_cur` `proe_win` 9 362 216 0 1538 1135 543 1366 768 10257
+~ Move `main_dlg_cur` `proe_win` 9 364 211 0 1538 1135 543 1366 768 10273
+~ Move `main_dlg_cur` `proe_win` 9 366 206 0 1538 1135 543 1366 768 10273
+~ Move `main_dlg_cur` `proe_win` 9 368 202 0 1538 1135 543 1366 768 10288
+~ Move `main_dlg_cur` `proe_win` 9 370 197 0 1538 1135 543 1366 768 10288
+~ Move `main_dlg_cur` `proe_win` 9 371 193 0 1538 1135 543 1366 768 10304
+~ Move `main_dlg_cur` `proe_win` 9 373 189 0 1538 1135 543 1366 768 10304
+~ Move `main_dlg_cur` `proe_win` 9 374 183 0 1538 1135 543 1366 768 10319
+~ Move `main_dlg_cur` `proe_win` 9 374 179 0 1026 1135 543 1366 768 10319
+~ Move `main_dlg_cur` `proe_win` 9 375 174 0 1538 1135 543 1366 768 10335
+~ Move `main_dlg_cur` `proe_win` 9 377 168 0 1538 1135 543 1366 768 10335
+~ Move `main_dlg_cur` `proe_win` 9 378 164 0 1538 1135 543 1366 768 10350
+~ Move `main_dlg_cur` `proe_win` 9 379 159 0 1538 1135 543 1366 768 10366
+~ Move `main_dlg_cur` `proe_win` 9 380 154 0 1538 1135 543 1366 768 10366
+~ Move `main_dlg_cur` `proe_win` 9 380 151 0 1026 1135 543 1366 768 10381
+~ Move `main_dlg_cur` `proe_win` 9 380 148 0 1026 1135 543 1366 768 10381
+~ Move `main_dlg_cur` `proe_win` 9 381 146 0 1538 1135 543 1366 768 10397
+~ Move `main_dlg_cur` `proe_win` 9 381 144 0 1026 1135 543 1366 768 10397
+~ Move `main_dlg_cur` `proe_win` 9 381 142 0 1026 1135 543 1366 768 10412
+~ Move `main_dlg_cur` `proe_win` 9 381 141 0 1026 1135 543 1366 768 10412
+~ Move `main_dlg_cur` `proe_win` 9 381 140 0 1026 1135 543 1366 768 10428
+~ Move `main_dlg_cur` `proe_win` 9 381 139 0 1026 1135 543 1366 768 10428
+~ Move `main_dlg_cur` `proe_win` 9 382 139 0 514 1135 543 1366 768 10459
+~ Move `main_dlg_cur` `proe_win` 9 382 138 0 1026 1135 543 1366 768 10474
+~ Move `main_dlg_cur` `proe_win` 9 382 137 0 1026 1135 543 1366 768 10490
+~ Move `main_dlg_cur` `proe_win` 9 383 137 0 514 1135 543 1366 768 10878
+~ Move `main_dlg_cur` `proe_win` 9 384 136 0 1538 1135 543 1366 768 10878
+~ Move `main_dlg_cur` `proe_win` 9 388 135 0 1538 1135 543 1366 768 10893
+~ Move `main_dlg_cur` `proe_win` 9 399 133 0 1538 1135 543 1366 768 10893
+~ Move `main_dlg_cur` `proe_win` 9 416 130 0 1538 1135 543 1366 768 10909
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 416 130 0 0 1135 543 1366 768 10909
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Activate `file_open` `Current Dir`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Activate `file_open` `In Session`
+~ Activate `file_open` `desktop_pb`
+~ Select `file_open` `Ph_list.Filelist` 1 `Marko Nikolic IV-1 ZNJ`
+~ Activate `file_open` `Ph_list.Filelist` 1 `Marko Nikolic IV-1 ZNJ`
+~ Select `file_open` `Ph_list.Filelist` 1 `Marko Nikolic`
+~ Activate `file_open` `Ph_list.Filelist` 1 `Marko Nikolic`
+~ Select `file_open` `Ph_list.Filelist` 1 `motor`
+~ Activate `file_open` `Ph_list.Filelist` 1 `motor`
+~ Select `file_open` `Ph_list.Filelist` 1 `motor_sa_centrifugalnimventilat.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+~ Activate `open_replace` `Ok`
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 0.592000 592 0 0 592 1366 0 0 768 13
+< 2 0.683852 945 0 0 577 1366 0 0 768 13
+< 2 0.634074 1012 0 0 535 1366 0 0 768 13
+!22-Dec-16 15:59:19  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.13
+!22-Dec-16 15:59:19  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.13
+< 2 0.634074 1005 0 0 535 1366 0 0 768 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 603 217 0 2 1005 535 1366 768 23462
+~ Move `main_dlg_cur` `proe_win` 9 602 215 0 1538 1005 535 1366 768 23462
+~ Move `main_dlg_cur` `proe_win` 9 602 213 0 1026 1005 535 1366 768 23478
+~ Move `main_dlg_cur` `proe_win` 9 601 210 0 1538 1005 535 1366 768 23478
+~ Move `main_dlg_cur` `proe_win` 9 600 206 0 1538 1005 535 1366 768 23493
+~ Move `main_dlg_cur` `proe_win` 9 600 202 0 1026 1005 535 1366 768 23493
+~ Move `main_dlg_cur` `proe_win` 9 600 198 0 1026 1005 535 1366 768 23509
+~ Move `main_dlg_cur` `proe_win` 9 599 195 0 1538 1005 535 1366 768 23509
+~ Move `main_dlg_cur` `proe_win` 9 599 192 0 1026 1005 535 1366 768 23524
+~ Move `main_dlg_cur` `proe_win` 9 599 189 0 1026 1005 535 1366 768 23524
+~ Move `main_dlg_cur` `proe_win` 9 599 186 0 1026 1005 535 1366 768 23540
+~ Move `main_dlg_cur` `proe_win` 9 599 183 0 1026 1005 535 1366 768 23540
+~ Move `main_dlg_cur` `proe_win` 9 598 179 0 1538 1005 535 1366 768 23555
+~ Move `main_dlg_cur` `proe_win` 9 597 176 0 1538 1005 535 1366 768 23555
+~ Move `main_dlg_cur` `proe_win` 9 596 172 0 1538 1005 535 1366 768 23571
+~ Move `main_dlg_cur` `proe_win` 9 595 168 0 1538 1005 535 1366 768 23571
+~ Move `main_dlg_cur` `proe_win` 9 595 164 0 1026 1005 535 1366 768 23586
+~ Move `main_dlg_cur` `proe_win` 9 594 161 0 1538 1005 535 1366 768 23586
+~ Move `main_dlg_cur` `proe_win` 9 594 159 0 1026 1005 535 1366 768 23602
+~ Move `main_dlg_cur` `proe_win` 9 593 156 0 1538 1005 535 1366 768 23602
+~ Move `main_dlg_cur` `proe_win` 9 592 153 0 1538 1005 535 1366 768 23617
+~ Move `main_dlg_cur` `proe_win` 9 592 152 0 1026 1005 535 1366 768 23633
+~ Move `main_dlg_cur` `proe_win` 9 591 150 0 1538 1005 535 1366 768 23633
+~ Move `main_dlg_cur` `proe_win` 9 591 149 0 1026 1005 535 1366 768 23648
+~ Move `main_dlg_cur` `proe_win` 9 591 148 0 1026 1005 535 1366 768 23648
+~ Move `main_dlg_cur` `proe_win` 9 591 147 0 1026 1005 535 1366 768 23664
+~ Move `main_dlg_cur` `proe_win` 9 591 146 0 1026 1005 535 1366 768 23680
+~ Move `main_dlg_cur` `proe_win` 9 591 145 0 1026 1005 535 1366 768 23680
+~ Move `main_dlg_cur` `proe_win` 9 591 144 0 1026 1005 535 1366 768 23695
+~ Move `main_dlg_cur` `proe_win` 9 590 144 0 514 1005 535 1366 768 23757
+~ Move `main_dlg_cur` `proe_win` 9 590 143 0 1026 1005 535 1366 768 23757
+~ Move `main_dlg_cur` `proe_win` 9 589 143 0 514 1005 535 1366 768 23959
+~ Move `main_dlg_cur` `proe_win` 9 588 142 0 1538 1005 535 1366 768 23974
+~ Move `main_dlg_cur` `proe_win` 9 586 142 0 514 1005 535 1366 768 23974
+~ Move `main_dlg_cur` `proe_win` 9 579 142 0 514 1005 535 1366 768 23990
+~ Move `main_dlg_cur` `proe_win` 9 565 143 0 1538 1005 535 1366 768 23990
+~ Move `main_dlg_cur` `proe_win` 9 538 145 0 1538 1005 535 1366 768 24005
+~ Move `main_dlg_cur` `proe_win` 9 494 149 0 1538 1005 535 1366 768 24005
+~ Move `main_dlg_cur` `proe_win` 9 447 153 0 1538 1005 535 1366 768 24021
+~ Move `main_dlg_cur` `proe_win` 9 400 155 0 1538 1005 535 1366 768 24021
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 400 155 0 0 1005 535 1366 768 24021
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node3`
+!Round 3
+~ MButtonArm `main_dlg_cur` `proe_win` 9 432 309 0 2 1005 535 1366 768 25992
+~ Move `main_dlg_cur` `proe_win` 9 431 310 0 1538 1005 535 1366 768 26007
+~ Move `main_dlg_cur` `proe_win` 9 430 310 0 514 1005 535 1366 768 26007
+~ Move `main_dlg_cur` `proe_win` 9 429 311 0 1538 1005 535 1366 768 26023
+~ Move `main_dlg_cur` `proe_win` 9 428 312 0 1538 1005 535 1366 768 26023
+~ Move `main_dlg_cur` `proe_win` 9 426 314 0 1538 1005 535 1366 768 26038
+~ Move `main_dlg_cur` `proe_win` 9 423 316 0 1538 1005 535 1366 768 26038
+~ Move `main_dlg_cur` `proe_win` 9 420 320 0 1538 1005 535 1366 768 26054
+~ Move `main_dlg_cur` `proe_win` 9 419 323 0 1538 1005 535 1366 768 26054
+~ Move `main_dlg_cur` `proe_win` 9 416 328 0 1538 1005 535 1366 768 26069
+~ Move `main_dlg_cur` `proe_win` 9 413 331 0 1538 1005 535 1366 768 26069
+~ Move `main_dlg_cur` `proe_win` 9 412 334 0 1538 1005 535 1366 768 26085
+~ Move `main_dlg_cur` `proe_win` 9 410 338 0 1538 1005 535 1366 768 26085
+~ Move `main_dlg_cur` `proe_win` 9 409 340 0 1538 1005 535 1366 768 26100
+~ Move `main_dlg_cur` `proe_win` 9 407 343 0 1538 1005 535 1366 768 26100
+~ Move `main_dlg_cur` `proe_win` 9 406 345 0 1538 1005 535 1366 768 26116
+~ Move `main_dlg_cur` `proe_win` 9 404 348 0 1538 1005 535 1366 768 26116
+~ Move `main_dlg_cur` `proe_win` 9 402 350 0 1538 1005 535 1366 768 26131
+~ Move `main_dlg_cur` `proe_win` 9 401 352 0 1538 1005 535 1366 768 26131
+~ Move `main_dlg_cur` `proe_win` 9 399 354 0 1538 1005 535 1366 768 26147
+~ Move `main_dlg_cur` `proe_win` 9 398 356 0 1538 1005 535 1366 768 26147
+~ Move `main_dlg_cur` `proe_win` 9 397 357 0 1538 1005 535 1366 768 26162
+~ Move `main_dlg_cur` `proe_win` 9 396 359 0 1538 1005 535 1366 768 26162
+~ Move `main_dlg_cur` `proe_win` 9 395 359 0 514 1005 535 1366 768 26178
+~ Move `main_dlg_cur` `proe_win` 9 395 360 0 1026 1005 535 1366 768 26178
+~ Move `main_dlg_cur` `proe_win` 9 394 360 0 514 1005 535 1366 768 26193
+~ Move `main_dlg_cur` `proe_win` 9 393 360 0 514 1005 535 1366 768 26224
+~ Move `main_dlg_cur` `proe_win` 9 392 360 0 514 1005 535 1366 768 26255
+~ Move `main_dlg_cur` `proe_win` 9 391 360 0 514 1005 535 1366 768 26255
+~ Move `main_dlg_cur` `proe_win` 9 390 360 0 514 1005 535 1366 768 26286
+~ Move `main_dlg_cur` `proe_win` 9 388 361 0 1538 1005 535 1366 768 26302
+~ Move `main_dlg_cur` `proe_win` 9 386 362 0 1538 1005 535 1366 768 26317
+~ Move `main_dlg_cur` `proe_win` 9 385 363 0 1538 1005 535 1366 768 26317
+~ Move `main_dlg_cur` `proe_win` 9 384 363 0 514 1005 535 1366 768 26333
+~ Move `main_dlg_cur` `proe_win` 9 383 363 0 514 1005 535 1366 768 26333
+~ Move `main_dlg_cur` `proe_win` 9 382 363 0 514 1005 535 1366 768 26364
+~ Move `main_dlg_cur` `proe_win` 9 381 363 0 514 1005 535 1366 768 26364
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w2:PHTLeft.AssyTree:<NULL>`
+~ Move `main_dlg_cur` `proe_win` 9 381 362 0 1026 1005 535 1366 768 26566
+~ Move `main_dlg_cur` `proe_win` 9 381 361 0 1026 1005 535 1366 768 26581
+~ Move `main_dlg_cur` `proe_win` 9 381 360 0 1026 1005 535 1366 768 26597
+~ Move `main_dlg_cur` `proe_win` 9 382 359 0 1538 1005 535 1366 768 26612
+~ Move `main_dlg_cur` `proe_win` 9 383 357 0 1538 1005 535 1366 768 26612
+~ Move `main_dlg_cur` `proe_win` 9 386 355 0 1538 1005 535 1366 768 26628
+~ Move `main_dlg_cur` `proe_win` 9 388 353 0 1538 1005 535 1366 768 26628
+~ Move `main_dlg_cur` `proe_win` 9 390 350 0 1538 1005 535 1366 768 26643
+~ Move `main_dlg_cur` `proe_win` 9 392 349 0 1538 1005 535 1366 768 26643
+~ Move `main_dlg_cur` `proe_win` 9 395 347 0 1538 1005 535 1366 768 26659
+~ Move `main_dlg_cur` `proe_win` 9 397 345 0 1538 1005 535 1366 768 26659
+~ Move `main_dlg_cur` `proe_win` 9 399 344 0 1538 1005 535 1366 768 26674
+~ Move `main_dlg_cur` `proe_win` 9 401 342 0 1538 1005 535 1366 768 26674
+~ Move `main_dlg_cur` `proe_win` 9 403 341 0 1538 1005 535 1366 768 26690
+~ Move `main_dlg_cur` `proe_win` 9 405 340 0 1538 1005 535 1366 768 26690
+~ Move `main_dlg_cur` `proe_win` 9 406 339 0 1538 1005 535 1366 768 26705
+~ Move `main_dlg_cur` `proe_win` 9 408 338 0 1538 1005 535 1366 768 26705
+~ Move `main_dlg_cur` `proe_win` 9 409 337 0 1538 1005 535 1366 768 26721
+~ Move `main_dlg_cur` `proe_win` 9 411 336 0 1538 1005 535 1366 768 26721
+~ Move `main_dlg_cur` `proe_win` 9 412 336 0 514 1005 535 1366 768 26736
+~ Move `main_dlg_cur` `proe_win` 9 413 334 0 1538 1005 535 1366 768 26736
+~ Move `main_dlg_cur` `proe_win` 9 414 334 0 514 1005 535 1366 768 26752
+~ Move `main_dlg_cur` `proe_win` 9 415 333 0 1538 1005 535 1366 768 26752
+~ Move `main_dlg_cur` `proe_win` 9 416 332 0 1538 1005 535 1366 768 26767
+~ Move `main_dlg_cur` `proe_win` 9 418 331 0 1538 1005 535 1366 768 26783
+~ Move `main_dlg_cur` `proe_win` 9 419 330 0 1538 1005 535 1366 768 26798
+~ Move `main_dlg_cur` `proe_win` 9 420 329 0 1538 1005 535 1366 768 26814
+~ Move `main_dlg_cur` `proe_win` 9 421 328 0 1538 1005 535 1366 768 26814
+~ Move `main_dlg_cur` `proe_win` 9 423 328 0 514 1005 535 1366 768 26830
+~ Move `main_dlg_cur` `proe_win` 9 424 327 0 1538 1005 535 1366 768 26830
+~ Move `main_dlg_cur` `proe_win` 9 425 326 0 1538 1005 535 1366 768 26845
+~ Move `main_dlg_cur` `proe_win` 9 427 326 0 514 1005 535 1366 768 26845
+~ Move `main_dlg_cur` `proe_win` 9 428 325 0 1538 1005 535 1366 768 26861
+~ Move `main_dlg_cur` `proe_win` 9 429 325 0 514 1005 535 1366 768 26861
+~ Move `main_dlg_cur` `proe_win` 9 430 325 0 514 1005 535 1366 768 26876
+~ Move `main_dlg_cur` `proe_win` 9 430 324 0 1026 1005 535 1366 768 26876
+~ Move `main_dlg_cur` `proe_win` 9 432 323 0 1538 1005 535 1366 768 26892
+~ Move `main_dlg_cur` `proe_win` 9 433 323 0 514 1005 535 1366 768 26907
+~ Move `main_dlg_cur` `proe_win` 9 434 322 0 1538 1005 535 1366 768 26907
+~ Move `main_dlg_cur` `proe_win` 9 435 322 0 514 1005 535 1366 768 26923
+~ Move `main_dlg_cur` `proe_win` 9 436 322 0 514 1005 535 1366 768 26938
+~ Move `main_dlg_cur` `proe_win` 9 437 321 0 1538 1005 535 1366 768 26938
+~ Move `main_dlg_cur` `proe_win` 9 439 321 0 514 1005 535 1366 768 26954
+~ Move `main_dlg_cur` `proe_win` 9 440 321 0 514 1005 535 1366 768 26954
+~ Move `main_dlg_cur` `proe_win` 9 441 321 0 514 1005 535 1366 768 26969
+~ Move `main_dlg_cur` `proe_win` 9 442 321 0 514 1005 535 1366 768 26985
+~ Move `main_dlg_cur` `proe_win` 9 442 320 0 1026 1005 535 1366 768 27326
+~ Move `main_dlg_cur` `proe_win` 9 442 319 0 1026 1005 535 1366 768 27342
+~ Move `main_dlg_cur` `proe_win` 9 441 319 0 514 1005 535 1366 768 27357
+~ Move `main_dlg_cur` `proe_win` 9 440 318 0 1538 1005 535 1366 768 27357
+~ Move `main_dlg_cur` `proe_win` 9 438 316 0 1538 1005 535 1366 768 27373
+~ Move `main_dlg_cur` `proe_win` 9 436 315 0 1538 1005 535 1366 768 27388
+~ Move `main_dlg_cur` `proe_win` 9 433 315 0 514 1005 535 1366 768 27388
+~ Move `main_dlg_cur` `proe_win` 9 432 314 0 1538 1005 535 1366 768 27404
+~ Move `main_dlg_cur` `proe_win` 9 431 313 0 1538 1005 535 1366 768 27404
+~ Move `main_dlg_cur` `proe_win` 9 429 313 0 514 1005 535 1366 768 27419
+~ Move `main_dlg_cur` `proe_win` 9 428 312 0 1538 1005 535 1366 768 27419
+~ Move `main_dlg_cur` `proe_win` 9 427 311 0 1538 1005 535 1366 768 27435
+~ Move `main_dlg_cur` `proe_win` 9 426 310 0 1538 1005 535 1366 768 27450
+~ Move `main_dlg_cur` `proe_win` 9 425 310 0 514 1005 535 1366 768 27466
+~ Move `main_dlg_cur` `proe_win` 9 424 310 0 514 1005 535 1366 768 27466
+~ Move `main_dlg_cur` `proe_win` 9 423 310 0 514 1005 535 1366 768 27481
+~ Move `main_dlg_cur` `proe_win` 9 421 310 0 514 1005 535 1366 768 27481
+~ Move `main_dlg_cur` `proe_win` 9 419 310 0 514 1005 535 1366 768 27497
+~ Move `main_dlg_cur` `proe_win` 9 417 310 0 514 1005 535 1366 768 27497
+~ Move `main_dlg_cur` `proe_win` 9 416 310 0 514 1005 535 1366 768 27512
+~ Move `main_dlg_cur` `proe_win` 9 414 310 0 514 1005 535 1366 768 27512
+~ Move `main_dlg_cur` `proe_win` 9 412 310 0 514 1005 535 1366 768 27528
+~ Move `main_dlg_cur` `proe_win` 9 410 310 0 514 1005 535 1366 768 27528
+~ Move `main_dlg_cur` `proe_win` 9 409 310 0 514 1005 535 1366 768 27543
+~ Move `main_dlg_cur` `proe_win` 9 407 310 0 514 1005 535 1366 768 27543
+~ Move `main_dlg_cur` `proe_win` 9 406 310 0 514 1005 535 1366 768 27559
+~ Move `main_dlg_cur` `proe_win` 9 404 310 0 514 1005 535 1366 768 27559
+~ Move `main_dlg_cur` `proe_win` 9 402 310 0 514 1005 535 1366 768 27574
+~ Move `main_dlg_cur` `proe_win` 9 400 310 0 514 1005 535 1366 768 27590
+~ Move `main_dlg_cur` `proe_win` 9 399 310 0 514 1005 535 1366 768 27605
+~ Move `main_dlg_cur` `proe_win` 9 397 310 0 514 1005 535 1366 768 27621
+~ Move `main_dlg_cur` `proe_win` 9 396 310 0 514 1005 535 1366 768 27621
+~ Move `main_dlg_cur` `proe_win` 9 395 310 0 514 1005 535 1366 768 27636
+~ Move `main_dlg_cur` `proe_win` 9 395 311 0 1026 1005 535 1366 768 27636
+~ Move `main_dlg_cur` `proe_win` 9 394 311 0 514 1005 535 1366 768 27652
+~ Move `main_dlg_cur` `proe_win` 9 393 311 0 514 1005 535 1366 768 27667
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 393 311 0 0 1005 535 1366 768 27714
+~ LButtonArm `main_dlg_cur` `proe_win` 9 462 404 0 1 1005 535 1366 768 29002
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 462 404 0 0 1005 535 1366 768 29095
+@ sel view 0
+ -4.261406 0.926611 0.349692 0.126020 2.039473 -3.868481
+ -0.982350 -3.757980 -2.013218 486.816767 351.189764 -1335.301091 1.000000 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 1139 1300 0.3509184316 0.0000000000 6.0000000000 -31.0000000000 21.1398972528
+~ Command `ProCmdEnvShadedEdges`  1
+!%CI Shaded with edges model will be displayed
+~ LButtonArm `main_dlg_cur` `proe_win` 9 50 284 0 1 1005 535 1366 768 32198
+~ Move `main_dlg_cur` `proe_win` 9 50 284 0 1 1005 535 1366 768 32276
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 50 284 0 0 1005 535 1366 768 32276
+@ sel view 0
+ -4.261406 0.926611 0.349692 0.126020 2.039473 -3.868481
+ -0.982350 -3.757980 -2.013218 486.816767 351.189764 -1335.301091 1.000000 0.000000 0
+~ Wheel `main_dlg_cur` `proe_win` 9 383 432 458752 0 1005 535 1366 768 32633
+~ Wheel `main_dlg_cur` `proe_win` 9 384 432 458752 0 1005 535 1366 768 32664
+~ Wheel `main_dlg_cur` `proe_win` 9 386 430 458752 1536 1005 535 1366 768 32679
+~ Wheel `main_dlg_cur` `proe_win` 9 390 429 458752 1536 1005 535 1366 768 32695
+~ Wheel `main_dlg_cur` `proe_win` 9 394 427 458752 1536 1005 535 1366 768 32726
+~ Wheel `main_dlg_cur` `proe_win` 9 396 425 458752 1024 1005 535 1366 768 32742
+~ LButtonArm `main_dlg_cur` `proe_win` 9 703 322 0 1 1005 535 1366 768 33657
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 703 322 0 0 1005 535 1366 768 33719
+@ sel view 0
+ -4.261406 0.926611 0.349692 0.126020 2.039473 -3.868481
+ -0.982350 -3.757980 -2.013218 486.816767 351.189764 -1335.301091 3.814697 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 52 1139 1301 0.5681480022 0.0000000000 4.0000000000 -31.0000000000 20.2496280242
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node7`
+!DTM3
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node8`
+!Extrude 5
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node11`
+!Pattern 1 of Extrude 4
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node13`
+!Extrude 2
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node14`
+!Shell 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node15`
+!Round 2
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node17`
+!Swept Blend 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node18`
+!Sketch 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node19`
+!Extrude 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node2`
+!Pattern 2 of Extrude 7
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node4`
+!Mirror 2
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node3`
+!Round 3
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node5`
+!Mirror 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node4`
+!Mirror 2
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node5`
+!Mirror 1
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `node5`
+!Expanded Mirror 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node24`
+!Extrude 6 (2)
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node24`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Command `ProCmdL05Edit@PopupMenuTree` 
+!Command ProCmdViewRepaint was pushed from the software.
+!Command ProCmdDynEdit was pushed from the software.
+! Executed sub-command ProCmdL05EditFeat.
+!%CPSelect items such as Dimensions, Sections, Trajectories, Tolerances, Surface Finish or other features for editing
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!sket_eps        0.44939149
+!%CISection entities of dependent feature copy can not be dragged.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 319 287 0 2 1005 535 1366 768 52433
+~ Move `main_dlg_cur` `proe_win` 9 318 287 0 514 1005 535 1366 768 52464
+~ Move `main_dlg_cur` `proe_win` 9 317 287 0 514 1005 535 1366 768 52479
+~ Move `main_dlg_cur` `proe_win` 9 317 286 0 1026 1005 535 1366 768 52479
+~ Move `main_dlg_cur` `proe_win` 9 316 285 0 1538 1005 535 1366 768 52495
+~ Move `main_dlg_cur` `proe_win` 9 315 285 0 514 1005 535 1366 768 52495
+~ Move `main_dlg_cur` `proe_win` 9 314 284 0 1538 1005 535 1366 768 52510
+~ Move `main_dlg_cur` `proe_win` 9 314 283 0 1026 1005 535 1366 768 52510
+~ Move `main_dlg_cur` `proe_win` 9 313 283 0 514 1005 535 1366 768 52526
+~ Move `main_dlg_cur` `proe_win` 9 312 283 0 514 1005 535 1366 768 52526
+~ Move `main_dlg_cur` `proe_win` 9 312 282 0 1026 1005 535 1366 768 52541
+~ Move `main_dlg_cur` `proe_win` 9 311 282 0 514 1005 535 1366 768 52541
+~ Move `main_dlg_cur` `proe_win` 9 311 281 0 1026 1005 535 1366 768 52557
+~ Move `main_dlg_cur` `proe_win` 9 309 281 0 514 1005 535 1366 768 52557
+~ Move `main_dlg_cur` `proe_win` 9 308 280 0 1538 1005 535 1366 768 52572
+~ Move `main_dlg_cur` `proe_win` 9 306 279 0 1538 1005 535 1366 768 52588
+~ Move `main_dlg_cur` `proe_win` 9 305 279 0 514 1005 535 1366 768 52588
+~ Move `main_dlg_cur` `proe_win` 9 304 278 0 1538 1005 535 1366 768 52603
+~ Move `main_dlg_cur` `proe_win` 9 303 277 0 1538 1005 535 1366 768 52619
+~ Move `main_dlg_cur` `proe_win` 9 302 277 0 514 1005 535 1366 768 52634
+~ Move `main_dlg_cur` `proe_win` 9 301 277 0 514 1005 535 1366 768 52650
+~ Move `main_dlg_cur` `proe_win` 9 301 276 0 1026 1005 535 1366 768 52650
+~ Move `main_dlg_cur` `proe_win` 9 300 276 0 514 1005 535 1366 768 52665
+~ Move `main_dlg_cur` `proe_win` 9 299 276 0 514 1005 535 1366 768 52665
+~ Move `main_dlg_cur` `proe_win` 9 298 276 0 514 1005 535 1366 768 52681
+~ Move `main_dlg_cur` `proe_win` 9 297 276 0 514 1005 535 1366 768 52697
+~ Move `main_dlg_cur` `proe_win` 9 296 275 0 1538 1005 535 1366 768 52697
+~ Move `main_dlg_cur` `proe_win` 9 295 275 0 514 1005 535 1366 768 52712
+~ Move `main_dlg_cur` `proe_win` 9 294 275 0 514 1005 535 1366 768 52728
+~ Move `main_dlg_cur` `proe_win` 9 293 274 0 1538 1005 535 1366 768 52743
+~ Move `main_dlg_cur` `proe_win` 9 292 274 0 514 1005 535 1366 768 52759
+~ Move `main_dlg_cur` `proe_win` 9 291 274 0 514 1005 535 1366 768 52774
+~ Move `main_dlg_cur` `proe_win` 9 290 274 0 514 1005 535 1366 768 52790
+~ Move `main_dlg_cur` `proe_win` 9 289 274 0 514 1005 535 1366 768 52805
+~ Move `main_dlg_cur` `proe_win` 9 288 274 0 514 1005 535 1366 768 52821
+~ Move `main_dlg_cur` `proe_win` 9 287 274 0 514 1005 535 1366 768 52867
+~ Move `main_dlg_cur` `proe_win` 9 287 273 0 1026 1005 535 1366 768 52976
+~ Move `main_dlg_cur` `proe_win` 9 287 272 0 1026 1005 535 1366 768 52976
+~ Move `main_dlg_cur` `proe_win` 9 286 272 0 514 1005 535 1366 768 52991
+~ Move `main_dlg_cur` `proe_win` 9 285 272 0 514 1005 535 1366 768 53628
+~ Move `main_dlg_cur` `proe_win` 9 284 272 0 514 1005 535 1366 768 53659
+~ Move `main_dlg_cur` `proe_win` 9 283 272 0 514 1005 535 1366 768 53674
+~ Move `main_dlg_cur` `proe_win` 9 282 272 0 514 1005 535 1366 768 53690
+~ Move `main_dlg_cur` `proe_win` 9 281 272 0 514 1005 535 1366 768 53690
+~ Move `main_dlg_cur` `proe_win` 9 280 272 0 514 1005 535 1366 768 53705
+~ Move `main_dlg_cur` `proe_win` 9 278 272 0 514 1005 535 1366 768 53721
+~ Move `main_dlg_cur` `proe_win` 9 277 272 0 514 1005 535 1366 768 53736
+~ Move `main_dlg_cur` `proe_win` 9 276 272 0 514 1005 535 1366 768 53752
+~ Move `main_dlg_cur` `proe_win` 9 275 272 0 514 1005 535 1366 768 53767
+~ Move `main_dlg_cur` `proe_win` 9 273 273 0 1538 1005 535 1366 768 53767
+~ Move `main_dlg_cur` `proe_win` 9 272 273 0 514 1005 535 1366 768 53783
+~ Move `main_dlg_cur` `proe_win` 9 271 274 0 1538 1005 535 1366 768 53783
+~ Move `main_dlg_cur` `proe_win` 9 269 275 0 1538 1005 535 1366 768 53798
+~ Move `main_dlg_cur` `proe_win` 9 267 276 0 1538 1005 535 1366 768 53798
+~ Move `main_dlg_cur` `proe_win` 9 266 277 0 1538 1005 535 1366 768 53814
+~ Move `main_dlg_cur` `proe_win` 9 265 277 0 514 1005 535 1366 768 53814
+~ Move `main_dlg_cur` `proe_win` 9 264 277 0 514 1005 535 1366 768 53829
+~ Move `main_dlg_cur` `proe_win` 9 263 277 0 514 1005 535 1366 768 53845
+~ Move `main_dlg_cur` `proe_win` 9 262 277 0 514 1005 535 1366 768 53845
+~ Move `main_dlg_cur` `proe_win` 9 261 278 0 1538 1005 535 1366 768 53860
+~ Move `main_dlg_cur` `proe_win` 9 260 278 0 514 1005 535 1366 768 53876
+~ Move `main_dlg_cur` `proe_win` 9 260 279 0 1026 1005 535 1366 768 53876
+~ Move `main_dlg_cur` `proe_win` 9 259 279 0 514 1005 535 1366 768 53891
+~ Move `main_dlg_cur` `proe_win` 9 259 280 0 1026 1005 535 1366 768 53891
+~ Move `main_dlg_cur` `proe_win` 9 258 280 0 514 1005 535 1366 768 53907
+~ Move `main_dlg_cur` `proe_win` 9 258 281 0 1026 1005 535 1366 768 53922
+~ Move `main_dlg_cur` `proe_win` 9 257 282 0 1538 1005 535 1366 768 53922
+~ Move `main_dlg_cur` `proe_win` 9 256 283 0 1538 1005 535 1366 768 53938
+~ Move `main_dlg_cur` `proe_win` 9 255 283 0 514 1005 535 1366 768 53938
+~ Move `main_dlg_cur` `proe_win` 9 255 284 0 1026 1005 535 1366 768 53953
+~ Move `main_dlg_cur` `proe_win` 9 254 285 0 1538 1005 535 1366 768 53969
+~ Move `main_dlg_cur` `proe_win` 9 254 286 0 1026 1005 535 1366 768 53969
+~ Move `main_dlg_cur` `proe_win` 9 253 287 0 1538 1005 535 1366 768 53984
+~ Move `main_dlg_cur` `proe_win` 9 252 288 0 1538 1005 535 1366 768 54000
+~ Move `main_dlg_cur` `proe_win` 9 252 289 0 1026 1005 535 1366 768 54000
+~ Move `main_dlg_cur` `proe_win` 9 251 291 0 1538 1005 535 1366 768 54015
+~ Move `main_dlg_cur` `proe_win` 9 251 293 0 1026 1005 535 1366 768 54015
+~ Move `main_dlg_cur` `proe_win` 9 251 294 0 1026 1005 535 1366 768 54031
+~ Move `main_dlg_cur` `proe_win` 9 251 295 0 1026 1005 535 1366 768 54031
+~ Move `main_dlg_cur` `proe_win` 9 251 297 0 1026 1005 535 1366 768 54046
+~ Move `main_dlg_cur` `proe_win` 9 251 298 0 1026 1005 535 1366 768 54046
+~ Move `main_dlg_cur` `proe_win` 9 251 299 0 1026 1005 535 1366 768 54062
+~ Move `main_dlg_cur` `proe_win` 9 251 300 0 1026 1005 535 1366 768 54078
+~ Move `main_dlg_cur` `proe_win` 9 251 302 0 1026 1005 535 1366 768 54078
+~ Move `main_dlg_cur` `proe_win` 9 251 303 0 1026 1005 535 1366 768 54093
+~ Move `main_dlg_cur` `proe_win` 9 251 305 0 1026 1005 535 1366 768 54109
+~ Move `main_dlg_cur` `proe_win` 9 251 306 0 1026 1005 535 1366 768 54109
+~ Move `main_dlg_cur` `proe_win` 9 251 307 0 1026 1005 535 1366 768 54124
+~ Move `main_dlg_cur` `proe_win` 9 251 308 0 1026 1005 535 1366 768 54124
+~ Move `main_dlg_cur` `proe_win` 9 251 310 0 1026 1005 535 1366 768 54140
+~ Move `main_dlg_cur` `proe_win` 9 252 310 0 514 1005 535 1366 768 54140
+~ Move `main_dlg_cur` `proe_win` 9 252 312 0 1026 1005 535 1366 768 54155
+~ Move `main_dlg_cur` `proe_win` 9 252 313 0 1026 1005 535 1366 768 54171
+~ Move `main_dlg_cur` `proe_win` 9 252 314 0 1026 1005 535 1366 768 54186
+~ Move `main_dlg_cur` `proe_win` 9 252 315 0 1026 1005 535 1366 768 54202
+~ Move `main_dlg_cur` `proe_win` 9 252 316 0 1026 1005 535 1366 768 54202
+~ Move `main_dlg_cur` `proe_win` 9 253 316 0 514 1005 535 1366 768 54217
+~ Move `main_dlg_cur` `proe_win` 9 253 317 0 1026 1005 535 1366 768 54233
+~ Move `main_dlg_cur` `proe_win` 9 253 318 0 1026 1005 535 1366 768 54279
+~ Move `main_dlg_cur` `proe_win` 9 254 318 0 514 1005 535 1366 768 54512
+~ Move `main_dlg_cur` `proe_win` 9 255 318 0 514 1005 535 1366 768 54528
+~ Move `main_dlg_cur` `proe_win` 9 255 317 0 1026 1005 535 1366 768 54543
+~ Move `main_dlg_cur` `proe_win` 9 255 316 0 1026 1005 535 1366 768 54543
+~ Move `main_dlg_cur` `proe_win` 9 256 316 0 514 1005 535 1366 768 54559
+~ Move `main_dlg_cur` `proe_win` 9 256 315 0 1026 1005 535 1366 768 54559
+~ Move `main_dlg_cur` `proe_win` 9 257 314 0 1538 1005 535 1366 768 54574
+~ Move `main_dlg_cur` `proe_win` 9 258 313 0 1538 1005 535 1366 768 54574
+~ Move `main_dlg_cur` `proe_win` 9 260 311 0 1538 1005 535 1366 768 54590
+~ Move `main_dlg_cur` `proe_win` 9 261 309 0 1538 1005 535 1366 768 54590
+~ Move `main_dlg_cur` `proe_win` 9 263 307 0 1538 1005 535 1366 768 54605
+~ Move `main_dlg_cur` `proe_win` 9 264 306 0 1538 1005 535 1366 768 54605
+~ Move `main_dlg_cur` `proe_win` 9 265 305 0 1538 1005 535 1366 768 54621
+~ Move `main_dlg_cur` `proe_win` 9 265 304 0 1026 1005 535 1366 768 54621
+~ Move `main_dlg_cur` `proe_win` 9 266 304 0 514 1005 535 1366 768 54636
+~ Move `main_dlg_cur` `proe_win` 9 266 303 0 1026 1005 535 1366 768 54652
+~ Move `main_dlg_cur` `proe_win` 9 267 303 0 514 1005 535 1366 768 54652
+~ Move `main_dlg_cur` `proe_win` 9 267 302 0 1026 1005 535 1366 768 54667
+~ Move `main_dlg_cur` `proe_win` 9 267 301 0 1026 1005 535 1366 768 54667
+~ Move `main_dlg_cur` `proe_win` 9 268 301 0 514 1005 535 1366 768 54760
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 268 301 0 0 1005 535 1366 768 55179
+~ LButtonArm `main_dlg_cur` `proe_win` 9 75 352 0 1 1005 535 1366 768 56529
+@ nothing
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 75 352 0 0 1005 535 1366 768 56576
+@ sel view 0
+ -2.300524 3.642513 0.761684 1.470449 1.712400 -3.747791
+ -3.418456 -1.714719 -2.124705 442.669856 358.036346 -1372.300448 3.814697 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!Command ProCmdDummyExitCmd was pushed from the software.
+!%CIPart 'PRT0001' not changed since last regen.
+!Command ProCmdViewRepaint was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 75 352 0 129 1005 535 1366 768 56669
+** -0.174211 0.340187 2 64 64
+0.188954 0.197360 E 0 0.634074074 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 75 352 0 0 1005 535 1366 768 56746
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node24`
+!Extrude 6 (2)
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node24`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Command `ProCmdRedefine@PopupMenuTree` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off. Feature title : Extrude
+!ODUI session started.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CPSelect a sketch. (If an internal sketch is preferred, the "Edit" option can be found in the Placement panel.)
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating PRT0001 feature 27 out of 33 ...
+!%CIRestoring PRT0001 feature 28 out of 33 ...
+!%CIRegenerating PRT0001 feature 29 out of 33 ...
+!%CIRegenerating PRT0001 feature 30 out of 33 ...
+!%CIRegenerating PRT0001 feature 31 out of 33 ...
+!%CIRegenerating PRT0001 feature 32 out of 33 ...
+!%CIRegenerating PRT0001 feature 31 out of 33 ...
+!%CIRegenerating PRT0001 feature 32 out of 33 ...
+!%CIRegenerating PRT0001 feature 33 out of 33 ...
+!%CIPRT0001 regeneration completed successfully.
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 298 type 5300 
+!%CIFeature redefined successfully.
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `node4`
+!Expanded Mirror 2
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node24`
+!Extrude 5 (2)
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node5`
+!Mirror 1
+~ Activate `main_dlg_cur` `PHTLeft.AssyTree` 1 `node5`
+!Expanded Mirror 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node5`
+~ FocusOut `main_dlg_cur` `PHTLeft.node_edit`
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `node25`
+!Expanded Extrude 6 (2)
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node26`
+!Section 1 (1)
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node26`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Command `ProCmdL05Edit@PopupMenuTree` 
+!Command ProCmdViewRepaint was pushed from the software.
+!Command ProCmdDynEdit was pushed from the software.
+! Executed sub-command ProCmdL05EditFeat.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CPSelect items such as Dimensions, Tolerances for editing
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+!%CISection entities of dependent feature copy can not be dragged.
+~ Wheel `main_dlg_cur` `proe_win` 9 485 275 458752 1536 1005 535 1366 768 67174
+~ Wheel `main_dlg_cur` `proe_win` 9 458 268 458752 0 1005 535 1366 768 67267
+~ Wheel `main_dlg_cur` `proe_win` 9 453 268 458752 0 1005 535 1366 768 67360
+~ Wheel `main_dlg_cur` `proe_win` 9 449 268 458752 0 1005 535 1366 768 67438
+~ Wheel `main_dlg_cur` `proe_win` 9 447 268 458752 0 1005 535 1366 768 67515
+~ MButtonArm `main_dlg_cur` `proe_win` 9 443 269 0 2 1005 535 1366 768 67919
+~ Move `main_dlg_cur` `proe_win` 9 443 268 0 1026 1005 535 1366 768 68136
+~ Move `main_dlg_cur` `proe_win` 9 444 268 0 514 1005 535 1366 768 68152
+~ Move `main_dlg_cur` `proe_win` 9 445 268 0 514 1005 535 1366 768 68167
+~ Move `main_dlg_cur` `proe_win` 9 445 267 0 1026 1005 535 1366 768 68183
+~ Move `main_dlg_cur` `proe_win` 9 446 267 0 514 1005 535 1366 768 68198
+~ Move `main_dlg_cur` `proe_win` 9 446 266 0 1026 1005 535 1366 768 68198
+~ Move `main_dlg_cur` `proe_win` 9 447 265 0 1538 1005 535 1366 768 68214
+~ Move `main_dlg_cur` `proe_win` 9 448 265 0 514 1005 535 1366 768 68229
+~ Move `main_dlg_cur` `proe_win` 9 448 264 0 1026 1005 535 1366 768 68245
+~ Move `main_dlg_cur` `proe_win` 9 449 264 0 514 1005 535 1366 768 68260
+~ Move `main_dlg_cur` `proe_win` 9 450 264 0 514 1005 535 1366 768 68260
+~ Move `main_dlg_cur` `proe_win` 9 450 263 0 1026 1005 535 1366 768 68276
+~ Move `main_dlg_cur` `proe_win` 9 451 263 0 514 1005 535 1366 768 68291
+~ Move `main_dlg_cur` `proe_win` 9 451 262 0 1026 1005 535 1366 768 68307
+~ Move `main_dlg_cur` `proe_win` 9 452 262 0 514 1005 535 1366 768 68322
+~ Move `main_dlg_cur` `proe_win` 9 453 262 0 514 1005 535 1366 768 68338
+~ Move `main_dlg_cur` `proe_win` 9 453 261 0 1026 1005 535 1366 768 68353
+~ Move `main_dlg_cur` `proe_win` 9 454 260 0 1538 1005 535 1366 768 68369
+~ Move `main_dlg_cur` `proe_win` 9 455 259 0 1538 1005 535 1366 768 68384
+~ Move `main_dlg_cur` `proe_win` 9 456 259 0 514 1005 535 1366 768 68400
+~ Move `main_dlg_cur` `proe_win` 9 457 258 0 1538 1005 535 1366 768 68415
+~ Move `main_dlg_cur` `proe_win` 9 458 258 0 514 1005 535 1366 768 68431
+~ Move `main_dlg_cur` `proe_win` 9 459 258 0 514 1005 535 1366 768 68446
+~ Move `main_dlg_cur` `proe_win` 9 459 257 0 1026 1005 535 1366 768 68446
+~ Move `main_dlg_cur` `proe_win` 9 460 257 0 514 1005 535 1366 768 68477
+~ Move `main_dlg_cur` `proe_win` 9 461 257 0 514 1005 535 1366 768 68508
+~ Move `main_dlg_cur` `proe_win` 9 462 257 0 514 1005 535 1366 768 68539
+~ Move `main_dlg_cur` `proe_win` 9 462 256 0 1026 1005 535 1366 768 68555
+~ Move `main_dlg_cur` `proe_win` 9 462 255 0 1026 1005 535 1366 768 68571
+~ Move `main_dlg_cur` `proe_win` 9 463 255 0 514 1005 535 1366 768 68586
+~ Move `main_dlg_cur` `proe_win` 9 463 254 0 1026 1005 535 1366 768 68602
+~ Move `main_dlg_cur` `proe_win` 9 464 254 0 514 1005 535 1366 768 68633
+~ Move `main_dlg_cur` `proe_win` 9 465 254 0 514 1005 535 1366 768 68679
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 465 254 0 0 1005 535 1366 768 69098
+~ LButtonArm `main_dlg_cur` `proe_win` 9 150 534 0 1 1005 535 1366 768 70215
+@ nothing
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 150 534 0 0 1005 535 1366 768 70293
+@ sel view 0
+ -3.325109 2.836566 0.194979 0.763766 1.180090 -4.143009
+ -2.738756 -3.114764 -1.392097 451.777627 363.863858 -1341.053025 11.641532 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!Command ProCmdDummyExitCmd was pushed from the software.
+!%CIPart 'PRT0001' not changed since last regen.
+!Command ProCmdViewRepaint was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 150 534 0 129 1005 535 1366 768 70370
+** -0.055929 0.000000 2 64 64
+0.306785 0.195752 E 0 0.634074074 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 150 534 0 0 1005 535 1366 768 70448
+~ Wheel `main_dlg_cur` `proe_win` 9 261 465 393216 0 1005 535 1366 768 70898
+~ Wheel `main_dlg_cur` `proe_win` 9 261 465 393216 0 1005 535 1366 768 70914
+~ Wheel `main_dlg_cur` `proe_win` 9 261 465 393216 0 1005 535 1366 768 70945
+~ Wheel `main_dlg_cur` `proe_win` 9 261 465 393216 0 1005 535 1366 768 71038
+~ Activate `main_dlg_cur` `page_Flex_Modeling_control_btn` 1
+@ oa_sel_filter_set 2
+~ Activate `main_dlg_cur` `page_View_control_btn` 1
+@ oa_sel_filter_set 0
+~ Activate `main_dlg_cur` `page_Render_control_btn` 1
+~ Activate `main_dlg_cur` `page_Tools_control_btn` 1
+~ Activate `main_dlg_cur` `page_Render_control_btn` 1
+~ Activate `main_dlg_cur` `page_Annotate_control_btn` 1
+< 2 0.602074 1005 0 0 508 1366 0 0 768 13
+~ Activate `main_dlg_cur` `page_Applications_control_btn` 1
+< 2 0.631704 1003 0 0 533 1366 0 0 768 13
+< 2 0.631704 1003 0 0 533 1366 0 0 768 13
+~ Activate `main_dlg_cur` `page_Flex_Modeling_control_btn` 1
+@ oa_sel_filter_set 2
+~ Activate `main_dlg_cur` `page_View_control_btn` 1
+@ oa_sel_filter_set 0
+~ Activate `main_dlg_cur` `page_Tools_control_btn` 1
+~ Activate `main_dlg_cur` `page_Render_control_btn` 1
+~ Activate `main_dlg_cur` `page_Annotate_control_btn` 1
+< 2 0.602074 1005 0 0 508 1366 0 0 768 13
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+< 2 0.631704 1003 0 0 533 1366 0 0 768 13
+< 2 0.631704 1003 0 0 533 1366 0 0 768 13
+~ Command `ProCmdNmdTool`  1
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect reference(s) for Measure Summary analysis
+~ LButtonArm `main_dlg_cur` `proe_win` 9 451 420 0 1 1003 533 1366 768 87082
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 451 420 0 0 1003 533 1366 768 87176
+@ sel view 0
+ -3.325109 2.836566 0.194979 0.763766 1.180090 -4.143009
+ -2.738756 -3.114764 -1.392097 451.777627 363.863858 -1341.053025 4.768372 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 1295 -1 0.5493429740 0.0000000000 -4.9013140520 -31.0000000000 25.0000000000
+!%CDCurve length = 2.00000 mm
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Summary analysis
+~ LButtonArm `main_dlg_cur` `proe_win` 9 428 441 0 1 1003 533 1366 768 88075
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 428 441 0 0 1003 533 1366 768 88153
+@ sel view 0
+ -3.325109 2.836566 0.194979 0.763766 1.180090 -4.143009
+ -2.738756 -3.114764 -1.392097 451.777627 363.863858 -1341.053025 4.768372 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 1440 -1 0.2719352071 0.0000000000 -6.8419437880 -36.0000000000 25.0000000000
+!%CDCurve length = 30.0000 mm
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Summary analysis
+~ Move `main_dlg_cur` `proe_win` 9 451 418 33554432 0 1003 533 1366 768 90869
+~ LButtonArm `main_dlg_cur` `proe_win` 9 451 418 33554432 1 1003 533 1366 768 91024
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 451 418 33554432 0 1003 533 1366 768 91117
+@ sel view 0
+ -3.325109 2.836566 0.194979 0.763766 1.180090 -4.143009
+ -2.738756 -3.114764 -1.392097 451.777627 363.863858 -1341.053025 4.768372 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 3 1295 -1 0.5711268469 0.0000000000 -4.8577463063 -31.0000000000 25.0000000000
+!%CDDistance = 5.00000 mm
+!%CDAngle = 0.0000000000 deg
+!%CDTotal curve length = 32.0000 mm
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Summary analysis
+~ Move `main_dlg_cur` `proe_win` 9 451 416 0 0 1003 533 1366 768 91489
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ MButtonArm `main_dlg_cur` `proe_win` 9 104 258 0 2 1003 533 1366 768 106417
+~ Move `main_dlg_cur` `proe_win` 9 111 258 0 514 1003 533 1366 768 106432
+~ Move `main_dlg_cur` `proe_win` 9 118 258 0 514 1003 533 1366 768 106448
+~ Move `main_dlg_cur` `proe_win` 9 124 258 0 514 1003 533 1366 768 106448
+~ Move `main_dlg_cur` `proe_win` 9 130 258 0 514 1003 533 1366 768 106463
+~ Move `main_dlg_cur` `proe_win` 9 134 258 0 514 1003 533 1366 768 106463
+~ Move `main_dlg_cur` `proe_win` 9 142 258 0 514 1003 533 1366 768 106479
+~ Move `main_dlg_cur` `proe_win` 9 144 258 0 514 1003 533 1366 768 106494
+~ Move `main_dlg_cur` `proe_win` 9 146 258 0 514 1003 533 1366 768 106494
+~ Move `main_dlg_cur` `proe_win` 9 148 258 0 514 1003 533 1366 768 106510
+~ Move `main_dlg_cur` `proe_win` 9 151 258 0 514 1003 533 1366 768 106510
+~ Move `main_dlg_cur` `proe_win` 9 152 258 0 514 1003 533 1366 768 106525
+~ Move `main_dlg_cur` `proe_win` 9 153 258 0 514 1003 533 1366 768 106525
+~ Move `main_dlg_cur` `proe_win` 9 155 258 0 514 1003 533 1366 768 106541
+~ Move `main_dlg_cur` `proe_win` 9 157 258 0 514 1003 533 1366 768 106541
+~ Move `main_dlg_cur` `proe_win` 9 159 258 0 514 1003 533 1366 768 106556
+~ Move `main_dlg_cur` `proe_win` 9 161 258 0 514 1003 533 1366 768 106572
+~ Move `main_dlg_cur` `proe_win` 9 162 258 0 514 1003 533 1366 768 106572
+~ Move `main_dlg_cur` `proe_win` 9 164 258 0 514 1003 533 1366 768 106587
+~ Move `main_dlg_cur` `proe_win` 9 169 258 0 514 1003 533 1366 768 106587
+~ Move `main_dlg_cur` `proe_win` 9 171 258 0 514 1003 533 1366 768 106603
+~ Move `main_dlg_cur` `proe_win` 9 172 258 0 514 1003 533 1366 768 106603
+~ Move `main_dlg_cur` `proe_win` 9 173 258 0 514 1003 533 1366 768 106618
+~ Move `main_dlg_cur` `proe_win` 9 174 258 0 514 1003 533 1366 768 106618
+~ Move `main_dlg_cur` `proe_win` 9 175 258 0 514 1003 533 1366 768 106634
+~ Move `main_dlg_cur` `proe_win` 9 176 258 0 514 1003 533 1366 768 106649
+~ Move `main_dlg_cur` `proe_win` 9 177 258 0 514 1003 533 1366 768 106649
+~ Move `main_dlg_cur` `proe_win` 9 178 258 0 514 1003 533 1366 768 106665
+~ Move `main_dlg_cur` `proe_win` 9 179 258 0 514 1003 533 1366 768 106681
+~ Move `main_dlg_cur` `proe_win` 9 180 258 0 514 1003 533 1366 768 106681
+~ Move `main_dlg_cur` `proe_win` 9 181 258 0 514 1003 533 1366 768 106696
+~ Move `main_dlg_cur` `proe_win` 9 182 258 0 514 1003 533 1366 768 106696
+~ Move `main_dlg_cur` `proe_win` 9 183 258 0 514 1003 533 1366 768 106712
+~ Move `main_dlg_cur` `proe_win` 9 184 258 0 514 1003 533 1366 768 106727
+~ Move `main_dlg_cur` `proe_win` 9 184 259 0 1026 1003 533 1366 768 106727
+~ Move `main_dlg_cur` `proe_win` 9 184 260 0 1026 1003 533 1366 768 106758
+~ Move `main_dlg_cur` `proe_win` 9 185 260 0 514 1003 533 1366 768 106758
+~ Move `main_dlg_cur` `proe_win` 9 185 261 0 1026 1003 533 1366 768 106774
+~ Move `main_dlg_cur` `proe_win` 9 186 261 0 514 1003 533 1366 768 106789
+~ Move `main_dlg_cur` `proe_win` 9 186 263 0 1026 1003 533 1366 768 106789
+~ Move `main_dlg_cur` `proe_win` 9 187 263 0 514 1003 533 1366 768 106805
+~ Move `main_dlg_cur` `proe_win` 9 188 264 0 1538 1003 533 1366 768 106805
+~ Move `main_dlg_cur` `proe_win` 9 188 265 0 1026 1003 533 1366 768 106820
+~ Move `main_dlg_cur` `proe_win` 9 189 267 0 1538 1003 533 1366 768 106836
+~ Move `main_dlg_cur` `proe_win` 9 189 268 0 1026 1003 533 1366 768 106836
+~ Move `main_dlg_cur` `proe_win` 9 189 269 0 1026 1003 533 1366 768 106851
+~ Move `main_dlg_cur` `proe_win` 9 189 272 0 1026 1003 533 1366 768 106851
+~ Move `main_dlg_cur` `proe_win` 9 189 273 0 1026 1003 533 1366 768 106867
+~ Move `main_dlg_cur` `proe_win` 9 189 274 0 1026 1003 533 1366 768 106882
+~ Move `main_dlg_cur` `proe_win` 9 189 276 0 1026 1003 533 1366 768 106882
+~ Move `main_dlg_cur` `proe_win` 9 190 277 0 1538 1003 533 1366 768 106898
+~ Move `main_dlg_cur` `proe_win` 9 190 278 0 1026 1003 533 1366 768 106898
+~ Move `main_dlg_cur` `proe_win` 9 190 279 0 1026 1003 533 1366 768 106913
+~ Move `main_dlg_cur` `proe_win` 9 190 280 0 1026 1003 533 1366 768 106929
+~ Move `main_dlg_cur` `proe_win` 9 190 281 0 1026 1003 533 1366 768 106944
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 190 281 0 0 1003 533 1366 768 107053
+~ MButtonArm `main_dlg_cur` `proe_win` 9 479 295 0 2 1003 533 1366 768 107705
+~ Move `main_dlg_cur` `proe_win` 9 479 294 0 1026 1003 533 1366 768 107705
+~ Move `main_dlg_cur` `proe_win` 9 478 294 0 514 1003 533 1366 768 107720
+~ Move `main_dlg_cur` `proe_win` 9 477 293 0 1538 1003 533 1366 768 107720
+~ Move `main_dlg_cur` `proe_win` 9 476 293 0 514 1003 533 1366 768 107736
+~ Move `main_dlg_cur` `proe_win` 9 475 292 0 1538 1003 533 1366 768 107751
+~ Move `main_dlg_cur` `proe_win` 9 474 292 0 514 1003 533 1366 768 107751
+~ Move `main_dlg_cur` `proe_win` 9 473 291 0 1538 1003 533 1366 768 107767
+~ Move `main_dlg_cur` `proe_win` 9 472 291 0 514 1003 533 1366 768 107782
+~ Move `main_dlg_cur` `proe_win` 9 472 290 0 1026 1003 533 1366 768 107782
+~ Move `main_dlg_cur` `proe_win` 9 470 290 0 514 1003 533 1366 768 107782
+~ Move `main_dlg_cur` `proe_win` 9 469 289 0 1538 1003 533 1366 768 107798
+~ Move `main_dlg_cur` `proe_win` 9 468 289 0 514 1003 533 1366 768 107813
+~ Move `main_dlg_cur` `proe_win` 9 467 289 0 514 1003 533 1366 768 107829
+~ Move `main_dlg_cur` `proe_win` 9 466 289 0 514 1003 533 1366 768 107829
+~ Move `main_dlg_cur` `proe_win` 9 465 289 0 514 1003 533 1366 768 107844
+~ Move `main_dlg_cur` `proe_win` 9 464 289 0 514 1003 533 1366 768 107844
+~ Move `main_dlg_cur` `proe_win` 9 462 289 0 514 1003 533 1366 768 107860
+~ Move `main_dlg_cur` `proe_win` 9 458 289 0 514 1003 533 1366 768 107875
+~ Move `main_dlg_cur` `proe_win` 9 457 289 0 514 1003 533 1366 768 107875
+~ Move `main_dlg_cur` `proe_win` 9 455 288 0 1538 1003 533 1366 768 107891
+~ Move `main_dlg_cur` `proe_win` 9 453 288 0 514 1003 533 1366 768 107891
+~ Move `main_dlg_cur` `proe_win` 9 452 288 0 514 1003 533 1366 768 107906
+~ Move `main_dlg_cur` `proe_win` 9 451 287 0 1538 1003 533 1366 768 107906
+~ Move `main_dlg_cur` `proe_win` 9 449 287 0 514 1003 533 1366 768 107922
+~ Move `main_dlg_cur` `proe_win` 9 448 286 0 1538 1003 533 1366 768 107937
+~ Move `main_dlg_cur` `proe_win` 9 446 286 0 514 1003 533 1366 768 107937
+~ Move `main_dlg_cur` `proe_win` 9 445 285 0 1538 1003 533 1366 768 107953
+~ Move `main_dlg_cur` `proe_win` 9 444 285 0 514 1003 533 1366 768 107953
+~ Move `main_dlg_cur` `proe_win` 9 442 285 0 514 1003 533 1366 768 107968
+~ Move `main_dlg_cur` `proe_win` 9 441 285 0 514 1003 533 1366 768 107984
+~ Move `main_dlg_cur` `proe_win` 9 440 285 0 514 1003 533 1366 768 107984
+~ Move `main_dlg_cur` `proe_win` 9 439 285 0 514 1003 533 1366 768 107999
+~ Move `main_dlg_cur` `proe_win` 9 438 285 0 514 1003 533 1366 768 107999
+~ Move `main_dlg_cur` `proe_win` 9 437 285 0 514 1003 533 1366 768 108015
+~ Move `main_dlg_cur` `proe_win` 9 435 285 0 514 1003 533 1366 768 108030
+~ Move `main_dlg_cur` `proe_win` 9 434 285 0 514 1003 533 1366 768 108030
+~ Move `main_dlg_cur` `proe_win` 9 433 285 0 514 1003 533 1366 768 108046
+~ Move `main_dlg_cur` `proe_win` 9 432 285 0 514 1003 533 1366 768 108062
+~ Move `main_dlg_cur` `proe_win` 9 431 285 0 514 1003 533 1366 768 108062
+~ Move `main_dlg_cur` `proe_win` 9 430 285 0 514 1003 533 1366 768 108077
+~ Move `main_dlg_cur` `proe_win` 9 428 285 0 514 1003 533 1366 768 108077
+~ Move `main_dlg_cur` `proe_win` 9 425 285 0 514 1003 533 1366 768 108093
+~ Move `main_dlg_cur` `proe_win` 9 423 285 0 514 1003 533 1366 768 108093
+~ Move `main_dlg_cur` `proe_win` 9 421 285 0 514 1003 533 1366 768 108108
+~ Move `main_dlg_cur` `proe_win` 9 420 285 0 514 1003 533 1366 768 108108
+~ Move `main_dlg_cur` `proe_win` 9 418 285 0 514 1003 533 1366 768 108124
+~ Move `main_dlg_cur` `proe_win` 9 417 285 0 514 1003 533 1366 768 108139
+~ Move `main_dlg_cur` `proe_win` 9 417 284 0 1026 1003 533 1366 768 108155
+~ Move `main_dlg_cur` `proe_win` 9 416 284 0 514 1003 533 1366 768 108170
+~ Move `main_dlg_cur` `proe_win` 9 416 283 0 1026 1003 533 1366 768 108186
+~ Move `main_dlg_cur` `proe_win` 9 415 283 0 514 1003 533 1366 768 108186
+~ Move `main_dlg_cur` `proe_win` 9 415 282 0 1026 1003 533 1366 768 108201
+~ Move `main_dlg_cur` `proe_win` 9 414 281 0 1538 1003 533 1366 768 108217
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 414 281 0 0 1003 533 1366 768 108217
+~ Wheel `main_dlg_cur` `proe_win` 9 456 293 393216 1536 1003 533 1366 768 108558
+~ Wheel `main_dlg_cur` `proe_win` 9 456 293 393216 0 1003 533 1366 768 108589
+~ Wheel `main_dlg_cur` `proe_win` 9 455 293 393216 1536 1003 533 1366 768 108620
+~ Wheel `main_dlg_cur` `proe_win` 9 453 293 393216 1536 1003 533 1366 768 108651
+~ MButtonArm `main_dlg_cur` `proe_win` 9 675 370 0 2 1003 533 1366 768 109412
+~ Move `main_dlg_cur` `proe_win` 9 673 372 0 1538 1003 533 1366 768 109412
+~ Move `main_dlg_cur` `proe_win` 9 671 373 0 1538 1003 533 1366 768 109427
+~ Move `main_dlg_cur` `proe_win` 9 669 375 0 1538 1003 533 1366 768 109427
+~ Move `main_dlg_cur` `proe_win` 9 666 377 0 1538 1003 533 1366 768 109458
+~ Move `main_dlg_cur` `proe_win` 9 665 378 0 1538 1003 533 1366 768 109458
+~ Move `main_dlg_cur` `proe_win` 9 662 380 0 1538 1003 533 1366 768 109474
+~ Move `main_dlg_cur` `proe_win` 9 660 380 0 514 1003 533 1366 768 109489
+~ Move `main_dlg_cur` `proe_win` 9 659 382 0 1538 1003 533 1366 768 109489
+~ Move `main_dlg_cur` `proe_win` 9 658 383 0 1538 1003 533 1366 768 109505
+~ Move `main_dlg_cur` `proe_win` 9 656 383 0 514 1003 533 1366 768 109505
+~ Move `main_dlg_cur` `proe_win` 9 656 384 0 1026 1003 533 1366 768 109520
+~ Move `main_dlg_cur` `proe_win` 9 654 385 0 1538 1003 533 1366 768 109520
+~ Move `main_dlg_cur` `proe_win` 9 653 386 0 1538 1003 533 1366 768 109536
+~ Move `main_dlg_cur` `proe_win` 9 652 387 0 1538 1003 533 1366 768 109536
+~ Move `main_dlg_cur` `proe_win` 9 649 389 0 1538 1003 533 1366 768 109551
+~ Move `main_dlg_cur` `proe_win` 9 648 389 0 514 1003 533 1366 768 109551
+~ Move `main_dlg_cur` `proe_win` 9 647 390 0 1538 1003 533 1366 768 109567
+~ Move `main_dlg_cur` `proe_win` 9 645 391 0 1538 1003 533 1366 768 109567
+~ Move `main_dlg_cur` `proe_win` 9 643 392 0 1538 1003 533 1366 768 109582
+~ Move `main_dlg_cur` `proe_win` 9 642 393 0 1538 1003 533 1366 768 109582
+~ Move `main_dlg_cur` `proe_win` 9 639 394 0 1538 1003 533 1366 768 109598
+~ Move `main_dlg_cur` `proe_win` 9 637 396 0 1538 1003 533 1366 768 109598
+~ Move `main_dlg_cur` `proe_win` 9 636 397 0 1538 1003 533 1366 768 109613
+~ Move `main_dlg_cur` `proe_win` 9 634 398 0 1538 1003 533 1366 768 109613
+~ Move `main_dlg_cur` `proe_win` 9 632 400 0 1538 1003 533 1366 768 109629
+~ Move `main_dlg_cur` `proe_win` 9 631 400 0 514 1003 533 1366 768 109629
+~ Move `main_dlg_cur` `proe_win` 9 629 401 0 1538 1003 533 1366 768 109644
+~ Move `main_dlg_cur` `proe_win` 9 628 402 0 1538 1003 533 1366 768 109644
+~ Move `main_dlg_cur` `proe_win` 9 627 402 0 514 1003 533 1366 768 109660
+~ Move `main_dlg_cur` `proe_win` 9 626 402 0 514 1003 533 1366 768 109675
+~ Move `main_dlg_cur` `proe_win` 9 625 402 0 514 1003 533 1366 768 109691
+~ Move `main_dlg_cur` `proe_win` 9 624 402 0 514 1003 533 1366 768 109706
+~ Move `main_dlg_cur` `proe_win` 9 623 402 0 514 1003 533 1366 768 109706
+~ Move `main_dlg_cur` `proe_win` 9 622 402 0 514 1003 533 1366 768 109722
+~ Move `main_dlg_cur` `proe_win` 9 619 402 0 514 1003 533 1366 768 109722
+~ Move `main_dlg_cur` `proe_win` 9 618 402 0 514 1003 533 1366 768 109737
+~ Move `main_dlg_cur` `proe_win` 9 615 401 0 1538 1003 533 1366 768 109737
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 615 401 0 0 1003 533 1366 768 109753
+~ Command `ProCmdNaMeasureDiameter` 
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect reference(s) for Measure Diameter analysis
+~ LButtonArm `main_dlg_cur` `proe_win` 9 425 317 0 1 1003 533 1366 768 114361
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 425 317 0 0 1003 533 1366 768 114408
+@ sel view 0
+ -1.503342 3.336304 2.397814 1.310565 2.809309 -3.087179
+ -3.893951 -0.342538 -1.964761 462.763482 344.646108 -1395.038345 1.953125 0.000000 0
+@ stack idx 0
+@SELECTION 0 0 2 51 -1 6.3820512238 7.5326005709 -13.4673994291 -33.8339693235 -3.3559677915
+!%CDDiameter = 68.0000 mm
+!%CDRadius = 34.0000 mm
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Diameter analysis
+~ Wheel `main_dlg_cur` `proe_win` 9 268 345 458752 1024 1003 533 1366 768 115292
+~ MButtonArm `main_dlg_cur` `proe_win` 9 267 328 0 2 1003 533 1366 768 115556
+~ Move `main_dlg_cur` `proe_win` 9 267 327 0 1026 1003 533 1366 768 115556
+~ Move `main_dlg_cur` `proe_win` 9 267 325 0 1026 1003 533 1366 768 115572
+~ Move `main_dlg_cur` `proe_win` 9 267 324 0 1026 1003 533 1366 768 115587
+~ Move `main_dlg_cur` `proe_win` 9 267 323 0 1026 1003 533 1366 768 115603
+~ Move `main_dlg_cur` `proe_win` 9 267 321 0 1026 1003 533 1366 768 115634
+~ Move `main_dlg_cur` `proe_win` 9 267 319 0 1026 1003 533 1366 768 115665
+~ Move `main_dlg_cur` `proe_win` 9 267 317 0 1026 1003 533 1366 768 115665
+~ Move `main_dlg_cur` `proe_win` 9 267 316 0 1026 1003 533 1366 768 115680
+~ Move `main_dlg_cur` `proe_win` 9 267 315 0 1026 1003 533 1366 768 115696
+~ Move `main_dlg_cur` `proe_win` 9 267 313 0 1026 1003 533 1366 768 115711
+~ Move `main_dlg_cur` `proe_win` 9 267 312 0 1026 1003 533 1366 768 115727
+~ Move `main_dlg_cur` `proe_win` 9 267 311 0 1026 1003 533 1366 768 115742
+~ Move `main_dlg_cur` `proe_win` 9 267 310 0 1026 1003 533 1366 768 115758
+~ Move `main_dlg_cur` `proe_win` 9 267 309 0 1026 1003 533 1366 768 115774
+~ Move `main_dlg_cur` `proe_win` 9 267 307 0 1026 1003 533 1366 768 115774
+~ Move `main_dlg_cur` `proe_win` 9 267 306 0 1026 1003 533 1366 768 115789
+~ Move `main_dlg_cur` `proe_win` 9 267 305 0 1026 1003 533 1366 768 115805
+~ Move `main_dlg_cur` `proe_win` 9 267 304 0 1026 1003 533 1366 768 115820
+~ Move `main_dlg_cur` `proe_win` 9 267 303 0 1026 1003 533 1366 768 115836
+~ Move `main_dlg_cur` `proe_win` 9 267 302 0 1026 1003 533 1366 768 115867
+~ Move `main_dlg_cur` `proe_win` 9 267 301 0 1026 1003 533 1366 768 115882
+~ Move `main_dlg_cur` `proe_win` 9 267 300 0 1026 1003 533 1366 768 115898
+~ Move `main_dlg_cur` `proe_win` 9 267 299 0 1026 1003 533 1366 768 115913
+~ Move `main_dlg_cur` `proe_win` 9 267 298 0 1026 1003 533 1366 768 115929
+~ Move `main_dlg_cur` `proe_win` 9 267 297 0 1026 1003 533 1366 768 115944
+~ Move `main_dlg_cur` `proe_win` 9 267 296 0 1026 1003 533 1366 768 115975
+~ Move `main_dlg_cur` `proe_win` 9 267 295 0 1026 1003 533 1366 768 115991
+~ Move `main_dlg_cur` `proe_win` 9 267 294 0 1026 1003 533 1366 768 116006
+~ Move `main_dlg_cur` `proe_win` 9 267 293 0 1026 1003 533 1366 768 116022
+~ Move `main_dlg_cur` `proe_win` 9 267 292 0 1026 1003 533 1366 768 116053
+~ Move `main_dlg_cur` `proe_win` 9 267 291 0 1026 1003 533 1366 768 116068
+~ Move `main_dlg_cur` `proe_win` 9 267 290 0 1026 1003 533 1366 768 116099
+~ Move `main_dlg_cur` `proe_win` 9 267 289 0 1026 1003 533 1366 768 116115
+~ Move `main_dlg_cur` `proe_win` 9 267 288 0 1026 1003 533 1366 768 116130
+~ Move `main_dlg_cur` `proe_win` 9 267 287 0 1026 1003 533 1366 768 116161
+~ Move `main_dlg_cur` `proe_win` 9 267 286 0 1026 1003 533 1366 768 116177
+~ Move `main_dlg_cur` `proe_win` 9 268 286 0 514 1003 533 1366 768 116192
+~ Move `main_dlg_cur` `proe_win` 9 268 285 0 1026 1003 533 1366 768 116192
+~ Move `main_dlg_cur` `proe_win` 9 268 284 0 1026 1003 533 1366 768 116208
+~ Move `main_dlg_cur` `proe_win` 9 268 283 0 1026 1003 533 1366 768 116224
+~ Move `main_dlg_cur` `proe_win` 9 268 282 0 1026 1003 533 1366 768 116239
+~ Move `main_dlg_cur` `proe_win` 9 268 281 0 1026 1003 533 1366 768 116255
+~ Move `main_dlg_cur` `proe_win` 9 268 280 0 1026 1003 533 1366 768 116270
+~ Move `main_dlg_cur` `proe_win` 9 268 279 0 1026 1003 533 1366 768 116286
+~ Move `main_dlg_cur` `proe_win` 9 268 278 0 1026 1003 533 1366 768 116317
+~ Move `main_dlg_cur` `proe_win` 9 268 277 0 1026 1003 533 1366 768 116332
+~ Move `main_dlg_cur` `proe_win` 9 268 276 0 1026 1003 533 1366 768 116348
+~ Move `main_dlg_cur` `proe_win` 9 268 275 0 1026 1003 533 1366 768 116363
+~ Move `main_dlg_cur` `proe_win` 9 268 274 0 1026 1003 533 1366 768 116379
+~ Move `main_dlg_cur` `proe_win` 9 268 273 0 1026 1003 533 1366 768 116410
+~ Move `main_dlg_cur` `proe_win` 9 268 272 0 1026 1003 533 1366 768 116425
+~ Move `main_dlg_cur` `proe_win` 9 268 271 0 1026 1003 533 1366 768 116441
+~ Move `main_dlg_cur` `proe_win` 9 268 270 0 1026 1003 533 1366 768 116487
+~ Move `main_dlg_cur` `proe_win` 9 268 269 0 1026 1003 533 1366 768 116503
+~ Move `main_dlg_cur` `proe_win` 9 268 268 0 1026 1003 533 1366 768 116518
+~ Move `main_dlg_cur` `proe_win` 9 268 269 0 1026 1003 533 1366 768 116875
+~ Move `main_dlg_cur` `proe_win` 9 267 269 0 514 1003 533 1366 768 116891
+~ Move `main_dlg_cur` `proe_win` 9 266 272 0 1538 1003 533 1366 768 116906
+~ Move `main_dlg_cur` `proe_win` 9 264 276 0 1538 1003 533 1366 768 116922
+~ Move `main_dlg_cur` `proe_win` 9 262 281 0 1538 1003 533 1366 768 116937
+~ Move `main_dlg_cur` `proe_win` 9 262 282 0 1026 1003 533 1366 768 116953
+~ Move `main_dlg_cur` `proe_win` 9 260 285 0 1538 1003 533 1366 768 116968
+~ Move `main_dlg_cur` `proe_win` 9 259 287 0 1538 1003 533 1366 768 116968
+~ Move `main_dlg_cur` `proe_win` 9 258 289 0 1538 1003 533 1366 768 116984
+~ Move `main_dlg_cur` `proe_win` 9 258 290 0 1026 1003 533 1366 768 116999
+~ Move `main_dlg_cur` `proe_win` 9 257 292 0 1538 1003 533 1366 768 117015
+~ Move `main_dlg_cur` `proe_win` 9 256 293 0 1538 1003 533 1366 768 117030
+~ Move `main_dlg_cur` `proe_win` 9 256 294 0 1026 1003 533 1366 768 117046
+~ Move `main_dlg_cur` `proe_win` 9 255 295 0 1538 1003 533 1366 768 117061
+~ Move `main_dlg_cur` `proe_win` 9 254 295 0 514 1003 533 1366 768 117077
+~ Move `main_dlg_cur` `proe_win` 9 254 296 0 1026 1003 533 1366 768 117077
+~ Move `main_dlg_cur` `proe_win` 9 254 297 0 1026 1003 533 1366 768 117092
+~ Move `main_dlg_cur` `proe_win` 9 253 298 0 1538 1003 533 1366 768 117108
+~ Move `main_dlg_cur` `proe_win` 9 253 299 0 1026 1003 533 1366 768 117139
+~ Move `main_dlg_cur` `proe_win` 9 253 300 0 1026 1003 533 1366 768 117139
+~ Move `main_dlg_cur` `proe_win` 9 253 301 0 1026 1003 533 1366 768 117155
+~ Move `main_dlg_cur` `proe_win` 9 252 301 0 514 1003 533 1366 768 117170
+~ Move `main_dlg_cur` `proe_win` 9 252 302 0 1026 1003 533 1366 768 117186
+~ Move `main_dlg_cur` `proe_win` 9 252 303 0 1026 1003 533 1366 768 117217
+~ Move `main_dlg_cur` `proe_win` 9 252 304 0 1026 1003 533 1366 768 117248
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 252 304 0 0 1003 533 1366 768 117434
+~ LButtonArm `main_dlg_cur` `proe_win` 9 183 341 0 1 1003 533 1366 768 124711
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 183 341 0 0 1003 533 1366 768 124789
+@ sel view 0
+ -0.610590 3.685363 2.277225 -0.060620 2.292238 -3.725915
+ -4.331741 -0.551557 -0.268849 455.530449 348.017399 -1376.119918 2.441406 0.000000 0
+~ LButtonArm `main_dlg_cur` `proe_win` 9 183 341 0 129 1003 533 1366 768 124867
+** -0.004192 0.358349 2 64 64
+0.179718 0.221558 E 0 0.631703704 2
+@ sel view 0
+ -0.610590 3.685363 2.277225 -0.060620 2.292238 -3.725915
+ -4.331741 -0.551557 -0.268849 455.530449 348.017399 -1376.119918 2.441406 0.000000 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 183 341 0 0 1003 533 1366 768 124929
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ LButtonArm `main_dlg_cur` `proe_win` 9 200 213 0 1 1003 533 1366 768 126620
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 200 213 0 0 1003 533 1366 768 126698
+@ sel view 0
+ -0.610590 3.685363 2.277225 -0.060620 2.292238 -3.725915
+ -4.331741 -0.551557 -0.268849 455.530449 348.017399 -1376.119918 2.441406 0.000000 0
+~ Command `ProCmdNmdTool`  1
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect reference(s) for Measure Summary analysis
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Trail `UI Desktop` `UI Desktop` `ActivateOnFocus` \
+ `main_dlg_w1`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+!%CIBase window cannot be closed.
+~ Resize `main_dlg_cur` `main_dlg_cur` 4 0.000000 0.000000 45.413299 26.941330
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+! Message Dialog: Error
+!               : The PTC Creo Agent did not initialize correctly. Working in this configuration is not supported because
+!               : some functionality such as Windchill operations and embedded browser actions will not work.
+!               : 
+!               : It is recommended that you exit this session and check the PTC Creo Agent Installation.
+~ Activate `UI Message Dialog` `ok`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `motor_sa_centrifugalnimventilat.prt`
+~ Activate `file_open` `Ph_list.Filelist` 1 `motor_sa_centrifugalnimventilat.prt`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Activate `open_replace` `Ok`
+!Command ProCmdModelOpenExe was pushed from the software.
+!22-Dec-16 16:14:54  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.13
+!22-Dec-16 16:14:54  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.13
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node17`
+!Swept Blend 1
+~ Expand `main_dlg_cur` `PHTLeft.AssyTree` `node17`
+!Expanded Swept Blend 1
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node28`
+!Section 1
+!sket_eps       1.517941806
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node28`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node17`
+!Swept Blend 1
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node17`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Command `ProCmdL05Edit@PopupMenuTree` 
+!Command ProCmdViewRepaint was pushed from the software.
+!Command ProCmdDynEdit was pushed from the software.
+! Executed sub-command ProCmdL05EditFeat.
+!%CPSelect items such as Dimension, Section(s) or Features for editing
+~ LButtonArm `main_dlg_cur` `proe_win` 9 177 147 0 1 1135 543 1366 768 965018
+@ nothing
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 177 147 0 0 1135 543 1366 768 965081
+@ sel view 0
+ 4.290044 0.548398 0.659742 0.857665 -2.662094 -3.364244
+ -0.020263 3.428263 -2.717917 496.265517 438.551076 -1468.237883 1.000000 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+!Command ProCmdDummyExitCmd was pushed from the software.
+!%CIPart 'PRT0002' not changed since last regen.
+!Command ProCmdViewRepaint was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 177 147 0 129 1135 543 1366 768 965159
+** -0.106785 0.727440 0 64 64
+-0.106785 0.613778 E 0 0.643555556 0
+~ Move `main_dlg_cur` `proe_win` 9 178 147 0 513 1135 543 1366 768 965174
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 178 147 0 0 1135 543 1366 768 965221
+~ LButtonArm `main_dlg_cur` `proe_win` 9 178 147 0 1 1135 543 1366 768 965284
+~ Move `main_dlg_cur` `proe_win` 9 177 147 0 513 1135 543 1366 768 965362
+~ Move `main_dlg_cur` `proe_win` 9 175 147 0 513 1135 543 1366 768 965393
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 175 147 0 0 1135 543 1366 768 965393
+@ sel view 0
+ 4.290044 0.548398 0.659742 0.857665 -2.662094 -3.364244
+ -0.020263 3.428263 -2.717917 496.265517 438.551076 -1468.237883 1.000000 0.000000 0
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `node17`
+!Swept Blend 1
+~ RButtonArm `main_dlg_cur` `PHTLeft.AssyTree` `node17`
+~ PopupOver `main_dlg_cur` `PM_PHTLeft.AssyTree` 1 `PHTLeft.AssyTree`
+~ Open `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Close `main_dlg_cur` `PM_PHTLeft.AssyTree`
+~ Command `ProCmdRedefine@PopupMenuTree` 
+!ODUI session starting: Okit widgets are on, Undo/Redo off, Dashboard style on, Tab style off. Feature title : Swept Blend
+!ODUI session started.
+!%CPSelect up to two chains as trajectories for the swept blend.
+~ MButtonArm `main_dlg_cur` `proe_win` 9 186 148 0 2 1135 543 1366 768 967393
+~ Move `main_dlg_cur` `proe_win` 9 185 149 0 1538 1135 543 1366 768 967408
+~ Move `main_dlg_cur` `proe_win` 9 183 150 0 1538 1135 543 1366 768 967408
+~ Move `main_dlg_cur` `proe_win` 9 180 152 0 1538 1135 543 1366 768 967424
+~ Move `main_dlg_cur` `proe_win` 9 175 154 0 1538 1135 543 1366 768 967424
+~ Move `main_dlg_cur` `proe_win` 9 169 156 0 1538 1135 543 1366 768 967440
+~ Move `main_dlg_cur` `proe_win` 9 165 157 0 1538 1135 543 1366 768 967440
+~ Move `main_dlg_cur` `proe_win` 9 161 158 0 1538 1135 543 1366 768 967455
+~ Move `main_dlg_cur` `proe_win` 9 156 160 0 1538 1135 543 1366 768 967455
+~ Move `main_dlg_cur` `proe_win` 9 153 161 0 1538 1135 543 1366 768 967471
+~ Move `main_dlg_cur` `proe_win` 9 150 162 0 1538 1135 543 1366 768 967471
+~ Move `main_dlg_cur` `proe_win` 9 148 162 0 514 1135 543 1366 768 967486
+~ Move `main_dlg_cur` `proe_win` 9 145 163 0 1538 1135 543 1366 768 967486
+~ Move `main_dlg_cur` `proe_win` 9 144 163 0 514 1135 543 1366 768 967502
+~ Move `main_dlg_cur` `proe_win` 9 143 163 0 514 1135 543 1366 768 967518
+~ Move `main_dlg_cur` `proe_win` 9 142 163 0 514 1135 543 1366 768 967533
+~ Move `main_dlg_cur` `proe_win` 9 141 163 0 514 1135 543 1366 768 967533
+~ Move `main_dlg_cur` `proe_win` 9 140 163 0 514 1135 543 1366 768 967549
+~ Move `main_dlg_cur` `proe_win` 9 138 163 0 514 1135 543 1366 768 967564
+~ Move `main_dlg_cur` `proe_win` 9 137 164 0 1538 1135 543 1366 768 967580
+~ Move `main_dlg_cur` `proe_win` 9 135 164 0 514 1135 543 1366 768 967596
+~ Move `main_dlg_cur` `proe_win` 9 134 164 0 514 1135 543 1366 768 967611
+~ Move `main_dlg_cur` `proe_win` 9 133 164 0 514 1135 543 1366 768 967611
+~ Move `main_dlg_cur` `proe_win` 9 132 164 0 514 1135 543 1366 768 967627
+~ Move `main_dlg_cur` `proe_win` 9 131 164 0 514 1135 543 1366 768 967627
+~ Move `main_dlg_cur` `proe_win` 9 128 164 0 514 1135 543 1366 768 967643
+~ Move `main_dlg_cur` `proe_win` 9 126 165 0 1538 1135 543 1366 768 967643
+~ Move `main_dlg_cur` `proe_win` 9 124 166 0 1538 1135 543 1366 768 967658
+~ Move `main_dlg_cur` `proe_win` 9 122 166 0 514 1135 543 1366 768 967658
+~ Move `main_dlg_cur` `proe_win` 9 120 167 0 1538 1135 543 1366 768 967674
+~ Move `main_dlg_cur` `proe_win` 9 118 168 0 1538 1135 543 1366 768 967674
+~ Move `main_dlg_cur` `proe_win` 9 116 168 0 514 1135 543 1366 768 967689
+~ Move `main_dlg_cur` `proe_win` 9 115 169 0 1538 1135 543 1366 768 967705
+~ Move `main_dlg_cur` `proe_win` 9 114 169 0 514 1135 543 1366 768 967705
+~ Move `main_dlg_cur` `proe_win` 9 112 169 0 514 1135 543 1366 768 967721
+~ Move `main_dlg_cur` `proe_win` 9 111 169 0 514 1135 543 1366 768 967736
+~ Move `main_dlg_cur` `proe_win` 9 109 169 0 514 1135 543 1366 768 967736
+~ Move `main_dlg_cur` `proe_win` 9 107 170 0 1538 1135 543 1366 768 967752
+~ Move `main_dlg_cur` `proe_win` 9 104 171 0 1538 1135 543 1366 768 967752
+~ Move `main_dlg_cur` `proe_win` 9 101 171 0 514 1135 543 1366 768 967768
+~ Move `main_dlg_cur` `proe_win` 9 99 172 0 1538 1135 543 1366 768 967768
+~ Move `main_dlg_cur` `proe_win` 9 98 173 0 1538 1135 543 1366 768 967783
+~ Move `main_dlg_cur` `proe_win` 9 97 173 0 514 1135 543 1366 768 967783
+~ Move `main_dlg_cur` `proe_win` 9 95 173 0 514 1135 543 1366 768 967799
+~ Move `main_dlg_cur` `proe_win` 9 94 173 0 514 1135 543 1366 768 967814
+~ Move `main_dlg_cur` `proe_win` 9 93 174 0 1538 1135 543 1366 768 967814
+~ Move `main_dlg_cur` `proe_win` 9 92 174 0 514 1135 543 1366 768 967830
+~ Move `main_dlg_cur` `proe_win` 9 90 174 0 514 1135 543 1366 768 967846
+~ Move `main_dlg_cur` `proe_win` 9 89 175 0 1538 1135 543 1366 768 967846
+~ Move `main_dlg_cur` `proe_win` 9 87 176 0 1538 1135 543 1366 768 967861
+~ Move `main_dlg_cur` `proe_win` 9 85 177 0 1538 1135 543 1366 768 967861
+~ Move `main_dlg_cur` `proe_win` 9 84 178 0 1538 1135 543 1366 768 967877
+~ Move `main_dlg_cur` `proe_win` 9 83 178 0 514 1135 543 1366 768 967877
+~ Move `main_dlg_cur` `proe_win` 9 82 178 0 514 1135 543 1366 768 967893
+~ Move `main_dlg_cur` `proe_win` 9 81 178 0 514 1135 543 1366 768 967908
+~ Move `main_dlg_cur` `proe_win` 9 80 178 0 514 1135 543 1366 768 967908
+~ Move `main_dlg_cur` `proe_win` 9 79 178 0 514 1135 543 1366 768 967924
+~ Move `main_dlg_cur` `proe_win` 9 78 179 0 1538 1135 543 1366 768 967939
+~ Move `main_dlg_cur` `proe_win` 9 77 179 0 514 1135 543 1366 768 967939
+~ Move `main_dlg_cur` `proe_win` 9 75 179 0 514 1135 543 1366 768 967955
+~ Move `main_dlg_cur` `proe_win` 9 74 179 0 514 1135 543 1366 768 967971
+~ Move `main_dlg_cur` `proe_win` 9 75 179 0 514 1135 543 1366 768 968252
+~ Move `main_dlg_cur` `proe_win` 9 76 179 0 514 1135 543 1366 768 968267
+~ Move `main_dlg_cur` `proe_win` 9 77 178 0 1538 1135 543 1366 768 968267
+~ Move `main_dlg_cur` `proe_win` 9 79 177 0 1538 1135 543 1366 768 968283
+~ Move `main_dlg_cur` `proe_win` 9 83 175 0 1538 1135 543 1366 768 968283
+~ Move `main_dlg_cur` `proe_win` 9 85 174 0 1538 1135 543 1366 768 968299
+~ Move `main_dlg_cur` `proe_win` 9 87 173 0 1538 1135 543 1366 768 968299
+~ Move `main_dlg_cur` `proe_win` 9 89 173 0 514 1135 543 1366 768 968314
+~ Move `main_dlg_cur` `proe_win` 9 91 172 0 1538 1135 543 1366 768 968314
+~ Move `main_dlg_cur` `proe_win` 9 93 171 0 1538 1135 543 1366 768 968330
+~ Move `main_dlg_cur` `proe_win` 9 95 170 0 1538 1135 543 1366 768 968346
+~ Move `main_dlg_cur` `proe_win` 9 96 169 0 1538 1135 543 1366 768 968346
+~ Move `main_dlg_cur` `proe_win` 9 97 169 0 514 1135 543 1366 768 968361
+~ Move `main_dlg_cur` `proe_win` 9 99 168 0 1538 1135 543 1366 768 968361
+~ Move `main_dlg_cur` `proe_win` 9 100 167 0 1538 1135 543 1366 768 968377
+~ Move `main_dlg_cur` `proe_win` 9 100 166 0 1026 1135 543 1366 768 968392
+~ Move `main_dlg_cur` `proe_win` 9 100 165 0 1026 1135 543 1366 768 968408
+~ Move `main_dlg_cur` `proe_win` 9 100 164 0 1026 1135 543 1366 768 968455
+~ Move `main_dlg_cur` `proe_win` 9 100 165 0 1026 1135 543 1366 768 968892
+~ Move `main_dlg_cur` `proe_win` 9 100 166 0 1026 1135 543 1366 768 968908
+~ Move `main_dlg_cur` `proe_win` 9 100 167 0 1026 1135 543 1366 768 968939
+~ Move `main_dlg_cur` `proe_win` 9 100 168 0 1026 1135 543 1366 768 968955
+~ Move `main_dlg_cur` `proe_win` 9 100 169 0 1026 1135 543 1366 768 968955
+~ Move `main_dlg_cur` `proe_win` 9 100 170 0 1026 1135 543 1366 768 968970
+~ Move `main_dlg_cur` `proe_win` 9 99 171 0 1538 1135 543 1366 768 968986
+~ Move `main_dlg_cur` `proe_win` 9 99 172 0 1026 1135 543 1366 768 969002
+~ Move `main_dlg_cur` `proe_win` 9 99 173 0 1026 1135 543 1366 768 969002
+~ Move `main_dlg_cur` `proe_win` 9 99 175 0 1026 1135 543 1366 768 969017
+~ Move `main_dlg_cur` `proe_win` 9 99 177 0 1026 1135 543 1366 768 969017
+~ Move `main_dlg_cur` `proe_win` 9 99 178 0 1026 1135 543 1366 768 969033
+~ Move `main_dlg_cur` `proe_win` 9 99 179 0 1026 1135 543 1366 768 969033
+~ Move `main_dlg_cur` `proe_win` 9 99 181 0 1026 1135 543 1366 768 969049
+~ Move `main_dlg_cur` `proe_win` 9 99 183 0 1026 1135 543 1366 768 969049
+~ Move `main_dlg_cur` `proe_win` 9 99 184 0 1026 1135 543 1366 768 969064
+~ Move `main_dlg_cur` `proe_win` 9 99 185 0 1026 1135 543 1366 768 969080
+~ Move `main_dlg_cur` `proe_win` 9 99 187 0 1026 1135 543 1366 768 969080
+~ Move `main_dlg_cur` `proe_win` 9 99 188 0 1026 1135 543 1366 768 969095
+~ Move `main_dlg_cur` `proe_win` 9 99 190 0 1026 1135 543 1366 768 969095
+~ Move `main_dlg_cur` `proe_win` 9 99 191 0 1026 1135 543 1366 768 969111
+~ Move `main_dlg_cur` `proe_win` 9 99 192 0 1026 1135 543 1366 768 969111
+~ Move `main_dlg_cur` `proe_win` 9 99 194 0 1026 1135 543 1366 768 969127
+~ Move `main_dlg_cur` `proe_win` 9 99 195 0 1026 1135 543 1366 768 969142
+~ Move `main_dlg_cur` `proe_win` 9 99 196 0 1026 1135 543 1366 768 969158
+~ Move `main_dlg_cur` `proe_win` 9 99 197 0 1026 1135 543 1366 768 969173
+~ Move `main_dlg_cur` `proe_win` 9 99 198 0 1026 1135 543 1366 768 969189
+~ Move `main_dlg_cur` `proe_win` 9 99 199 0 1026 1135 543 1366 768 969205
+~ Move `main_dlg_cur` `proe_win` 9 99 200 0 1026 1135 543 1366 768 969205
+~ Move `main_dlg_cur` `proe_win` 9 99 201 0 1026 1135 543 1366 768 969220
+~ Move `main_dlg_cur` `proe_win` 9 99 203 0 1026 1135 543 1366 768 969220
+~ Move `main_dlg_cur` `proe_win` 9 99 204 0 1026 1135 543 1366 768 969236
+~ Move `main_dlg_cur` `proe_win` 9 99 205 0 1026 1135 543 1366 768 969252
+~ Move `main_dlg_cur` `proe_win` 9 99 206 0 1026 1135 543 1366 768 969298
+~ Move `main_dlg_cur` `proe_win` 9 99 207 0 1026 1135 543 1366 768 969345
+~ Move `main_dlg_cur` `proe_win` 9 99 208 0 1026 1135 543 1366 768 969361
+~ Move `main_dlg_cur` `proe_win` 9 99 209 0 1026 1135 543 1366 768 969377
+~ Move `main_dlg_cur` `proe_win` 9 99 210 0 1026 1135 543 1366 768 969377
+~ Move `main_dlg_cur` `proe_win` 9 98 211 0 1538 1135 543 1366 768 969392
+~ Move `main_dlg_cur` `proe_win` 9 98 213 0 1026 1135 543 1366 768 969408
+~ Move `main_dlg_cur` `proe_win` 9 97 214 0 1538 1135 543 1366 768 969408
+~ Move `main_dlg_cur` `proe_win` 9 97 215 0 1026 1135 543 1366 768 969423
+~ Move `main_dlg_cur` `proe_win` 9 97 216 0 1026 1135 543 1366 768 969423
+~ Move `main_dlg_cur` `proe_win` 9 97 217 0 1026 1135 543 1366 768 969439
+~ Move `main_dlg_cur` `proe_win` 9 97 218 0 1026 1135 543 1366 768 969502
+~ Move `main_dlg_cur` `proe_win` 9 97 219 0 1026 1135 543 1366 768 969517
+~ Move `main_dlg_cur` `proe_win` 9 98 219 0 514 1135 543 1366 768 969736
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 98 219 0 0 1135 543 1366 768 969751
+~ Enter `main_dlg_cur` `dashInst0.Quit`
+~ Exit `main_dlg_cur` `dashInst0.Quit`
+~ Activate `main_dlg_cur` `dashInst0.Done`
+!ODUI session finished.
+!ProgressBarDlg: Regen Started
+!%CIRegenerating PRT0002 feature 8 out of 33 ...
+!%CIRegenerating PRT0002 feature 9 out of 33 ...
+!%CIRegenerating PRT0002 feature 10 out of 33 ...
+!%CIRegenerating PRT0002 feature 11 out of 33 ...
+!%CIRegenerating PRT0002 feature 12 out of 33 ...
+!%CIRegenerating PRT0002 feature 13 out of 33 ...
+!%CIRegenerating PRT0002 feature 14 out of 33 ...
+!%CIRegenerating PRT0002 feature 15 out of 33 ...
+!%CIRegenerating PRT0002 feature 14 out of 33 ...
+!%CIRegenerating PRT0002 feature 15 out of 33 ...
+!%CIRegenerating PRT0002 feature 16 out of 33 ...
+!%CIRegenerating PRT0002 feature 17 out of 33 ...
+!%CIRegenerating PRT0002 feature 18 out of 33 ...
+!%CIRegenerating PRT0002 feature 19 out of 33 ...
+!%CIRegenerating PRT0002 feature 20 out of 33 ...
+!%CIRestoring PRT0002 feature 21 out of 33 ...
+!%CIRestoring PRT0002 feature 22 out of 33 ...
+!%CIRegenerating PRT0002 feature 23 out of 33 ...
+!%CIRestoring PRT0002 feature 24 out of 33 ...
+!%CIRegenerating PRT0002 feature 25 out of 33 ...
+!%CIRestoring PRT0002 feature 26 out of 33 ...
+!%CIRegenerating PRT0002 feature 27 out of 33 ...
+!%CIRestoring PRT0002 feature 28 out of 33 ...
+!%CIRegenerating PRT0002 feature 29 out of 33 ...
+!%CIRegenerating PRT0002 feature 30 out of 33 ...
+!%CIRegenerating PRT0002 feature 31 out of 33 ...
+!%CIRegenerating PRT0002 feature 32 out of 33 ...
+!%CIRegenerating PRT0002 feature 31 out of 33 ...
+!%CIRegenerating PRT0002 feature 32 out of 33 ...
+!%CIRegenerating PRT0002 feature 33 out of 33 ...
+!%CIPRT0002 regeneration completed successfully.
+!ProgressBarDlg: Regen Completed
+!Undo: added rec_id 298 type 5300 
+!%CIFeature redefined successfully.
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : PTC Creo Parametric will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

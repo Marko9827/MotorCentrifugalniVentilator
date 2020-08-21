@@ -1,0 +1,106 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2016 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 3052
+!	Application: Creo_Simulate
+!	Start date&time: 2016/12/22  17:46:37
+!	language: usascii
+!	machine type: i486_nt
+!	datecode: M010
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\traceback.log
+!end Exit Logger data.
+< 0 0.843852 1236 0 0 712 1366 0 0 768 13
+!mem_use INCREASE Blocks 609947, AppSize 46659134, SysSize 59216912
+< 0 0.634074 1117 0 0 535 1366 0 0 768 13
+< 0 0.634074 1005 0 0 535 1366 0 0 768 13
+!%CIWelcome to PTC Creo Simulate 3.0.
+#PART
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\obrtnokolo.prt.3
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!22-Dec-16 17:46:40  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\obrtnokolo.prt.3
+!LIGHT_FIX_MODEL_RMODE is 51
+!22-Dec-16 17:46:40  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\obrtnokolo.prt.3
+!%CIPart 'OBRTNOKOLO' not changed since last regen.
+!Mech #
+!Mech # Creo Simulate Command Script File
+!Mech #    Product:		Creo Simulate P-20-60:spg
+!Mech #    Created:		12/22/16 at 17:46:45
+!Mech #    Machine:		i486_nt
+!Mech #    OS:  		Windows XP Service Pack 2
+!Mech #    Graphics:		opengl/window0
+!Mech #
+!Mech #    Language:		(usascii)
+!Mech #
+!%CIEntering Creo Simulate for the model OBRTNOKOLO.PRT...
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG). 
+~ Activate `main_dlg_cur` `main_dlg_cur`
+!mem_use INCREASE Blocks 671363, AppSize 94918616, SysSize 111949800
+! Message Dialog: Error
+!               : The PTC Creo Agent did not initialize correctly. Working in this configuration is not supported because
+!               : some functionality such as Windchill operations and embedded browser actions will not work.
+!               : 
+!               : It is recommended that you exit this session and check the PTC Creo Agent Installation.
+~ Activate `UI Message Dialog` `ok`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 615 146 0 2 1005 535 1366 768 316401
+~ Move `main_dlg_cur` `proe_win` 9 609 147 0 1538 1005 535 1366 768 316417
+~ Move `main_dlg_cur` `proe_win` 9 605 148 0 1538 1005 535 1366 768 316417
+~ Move `main_dlg_cur` `proe_win` 9 599 148 0 514 1005 535 1366 768 316432
+~ Move `main_dlg_cur` `proe_win` 9 594 148 0 514 1005 535 1366 768 316432
+~ Move `main_dlg_cur` `proe_win` 9 588 150 0 1538 1005 535 1366 768 316448
+~ Move `main_dlg_cur` `proe_win` 9 581 151 0 1538 1005 535 1366 768 316448
+~ Move `main_dlg_cur` `proe_win` 9 574 153 0 1538 1005 535 1366 768 316463
+~ Move `main_dlg_cur` `proe_win` 9 567 154 0 1538 1005 535 1366 768 316463
+~ Move `main_dlg_cur` `proe_win` 9 560 156 0 1538 1005 535 1366 768 316479
+~ Move `main_dlg_cur` `proe_win` 9 553 157 0 1538 1005 535 1366 768 316479
+~ Move `main_dlg_cur` `proe_win` 9 546 158 0 1538 1005 535 1366 768 316494
+~ Move `main_dlg_cur` `proe_win` 9 539 160 0 1538 1005 535 1366 768 316494
+~ Move `main_dlg_cur` `proe_win` 9 533 161 0 1538 1005 535 1366 768 316510
+~ Move `main_dlg_cur` `proe_win` 9 526 162 0 1538 1005 535 1366 768 316510
+~ Move `main_dlg_cur` `proe_win` 9 520 163 0 1538 1005 535 1366 768 316525
+~ Move `main_dlg_cur` `proe_win` 9 514 164 0 1538 1005 535 1366 768 316525
+~ Move `main_dlg_cur` `proe_win` 9 509 165 0 1538 1005 535 1366 768 316541
+~ Move `main_dlg_cur` `proe_win` 9 503 166 0 1538 1005 535 1366 768 316541
+~ Move `main_dlg_cur` `proe_win` 9 499 166 0 514 1005 535 1366 768 316556
+~ Move `main_dlg_cur` `proe_win` 9 496 166 0 514 1005 535 1366 768 316556
+~ Move `main_dlg_cur` `proe_win` 9 493 166 0 514 1005 535 1366 768 316572
+~ Move `main_dlg_cur` `proe_win` 9 490 166 0 514 1005 535 1366 768 316572
+~ Move `main_dlg_cur` `proe_win` 9 489 166 0 514 1005 535 1366 768 316587
+~ Move `main_dlg_cur` `proe_win` 9 487 166 0 514 1005 535 1366 768 316587
+~ Move `main_dlg_cur` `proe_win` 9 486 166 0 514 1005 535 1366 768 316603
+~ Move `main_dlg_cur` `proe_win` 9 485 166 0 514 1005 535 1366 768 316618
+~ Move `main_dlg_cur` `proe_win` 9 484 166 0 514 1005 535 1366 768 316634
+~ Move `main_dlg_cur` `proe_win` 9 483 166 0 514 1005 535 1366 768 316650
+~ Move `main_dlg_cur` `proe_win` 9 482 166 0 514 1005 535 1366 768 316650
+~ Move `main_dlg_cur` `proe_win` 9 480 166 0 514 1005 535 1366 768 316665
+~ Move `main_dlg_cur` `proe_win` 9 478 167 0 1538 1005 535 1366 768 316665
+~ Move `main_dlg_cur` `proe_win` 9 476 167 0 514 1005 535 1366 768 316681
+~ Move `main_dlg_cur` `proe_win` 9 473 167 0 514 1005 535 1366 768 316681
+~ Move `main_dlg_cur` `proe_win` 9 470 168 0 1538 1005 535 1366 768 316696
+~ Move `main_dlg_cur` `proe_win` 9 468 169 0 1538 1005 535 1366 768 316696
+~ Move `main_dlg_cur` `proe_win` 9 465 169 0 514 1005 535 1366 768 316727
+~ Move `main_dlg_cur` `proe_win` 9 464 169 0 514 1005 535 1366 768 316727
+~ Move `main_dlg_cur` `proe_win` 9 463 169 0 514 1005 535 1366 768 316727
+~ Move `main_dlg_cur` `proe_win` 9 462 169 0 514 1005 535 1366 768 316743
+~ Move `main_dlg_cur` `proe_win` 9 461 169 0 514 1005 535 1366 768 316774
+~ Move `main_dlg_cur` `proe_win` 9 460 169 0 514 1005 535 1366 768 316774
+~ Move `main_dlg_cur` `proe_win` 9 459 169 0 514 1005 535 1366 768 316820
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 459 169 0 0 1005 535 1366 768 317689
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+~ Activate `save_objects_dlg` `CancelPush`
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+~ Activate `save_objects_dlg` `NoPush`
+!End of Trail File

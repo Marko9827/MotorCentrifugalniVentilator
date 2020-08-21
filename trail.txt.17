@@ -1,0 +1,93 @@
+﻿!trail file version No. 1900
+!Creo  TM  5.0  (c) 2020 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 13628
+!	Application: Creo_Parametric
+!	Start date&time: 2020/08/21  15:31:54
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 5.0.1.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: F:\Mare\Documents\skola\Marko Nikolic 2\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\traceback.log
+!end Exit Logger data.
+< 0 1.007407 1315 0 0 850 1440 0 0 900 13
+!mem_use INCREASE Blocks 775689, AppSize 82307839, SysSize 95898584
+< 0 0.786963 1171 0 0 664 1440 0 0 900 13
+< 0 0.786963 1054 0 0 664 1440 0 0 900 13
+< 0 0.785778 1054 0 0 663 1440 0 0 900 13
+< 0 0.785778 1070 0 0 663 1440 0 0 900 13
+< 0 0.785778 1086 0 0 663 1440 0 0 900 13
+< 0 0.785778 1102 0 0 663 1440 0 0 900 13
+!%CIWelcome to Creo Parametric 5.0.1.0.
+!AFX datecode: 5.0.1.0 2018.04.06.15
+!AFX exec path: E:\Mare\PTC CREO\Creo 5.0.1.0\Common Files\afx\x86e_win64\afx50.dll
+!AFX text path: E:\Mare\PTC CREO\Creo 5.0.1.0\Common Files\afx\
+< 0 0.912593 1102 0 0 770 1440 0 0 900 13
+< 0 0.785778 1102 0 0 663 1440 0 0 900 13
+#PART
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+F:\Mare\Documents\skola\Marko Nikolic 2\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.4
+< 2 0.118519 178 0 0 100 1440 0 0 900 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!21-Aug-20 15:31:59  Start F:\Mare\Documents\skola\Marko Nikolic 2\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.4
+!21-Aug-20 15:31:59  End   F:\Mare\Documents\skola\Marko Nikolic 2\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_sa_centrifugalnimventilat.prt.4
+@ oa_sel_filter_set _30_
+@ stack attr 2
+< 0 0.785778 1028 0 0 663 1440 0 0 900 13
+!mem_use INCREASE Blocks 867469, AppSize 103511032, SysSize 124042720
+~ Sync LearnConn_Startup
+~ Activate `transient_balloon` `no`
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 831 183 0 2 1028 663 1440 900 14209
+~ Move `main_dlg_cur` `proe_win` 9 830 183 0 514 1028 663 1440 900 14217
+~ Move `main_dlg_cur` `proe_win` 9 829 183 0 514 1028 663 1440 900 14225
+~ Move `main_dlg_cur` `proe_win` 9 827 183 0 514 1028 663 1440 900 14233
+~ Move `main_dlg_cur` `proe_win` 9 824 183 0 514 1028 663 1440 900 14241
+~ Move `main_dlg_cur` `proe_win` 9 821 182 0 1538 1028 663 1440 900 14249
+~ Move `main_dlg_cur` `proe_win` 9 817 181 0 1538 1028 663 1440 900 14262
+~ Move `main_dlg_cur` `proe_win` 9 807 174 0 1538 1028 663 1440 900 14282
+~ Move `main_dlg_cur` `proe_win` 9 804 172 0 1538 1028 663 1440 900 14296
+~ Move `main_dlg_cur` `proe_win` 9 796 167 0 1538 1028 663 1440 900 14313
+~ Move `main_dlg_cur` `proe_win` 9 789 158 0 1538 1028 663 1440 900 14329
+~ Move `main_dlg_cur` `proe_win` 9 784 148 0 1538 1028 663 1440 900 14346
+~ Move `main_dlg_cur` `proe_win` 9 779 135 0 1538 1028 663 1440 900 14363
+~ Move `main_dlg_cur` `proe_win` 9 776 117 0 1538 1028 663 1440 900 14379
+~ Move `main_dlg_cur` `proe_win` 9 771 107 0 1538 1028 663 1440 900 14396
+~ Move `main_dlg_cur` `proe_win` 9 771 100 0 1026 1028 663 1440 900 14413
+~ Move `main_dlg_cur` `proe_win` 9 770 95 0 1538 1028 663 1440 900 14429
+~ Move `main_dlg_cur` `proe_win` 9 770 90 0 1026 1028 663 1440 900 14446
+~ Move `main_dlg_cur` `proe_win` 9 770 88 0 1026 1028 663 1440 900 14463
+~ Move `main_dlg_cur` `proe_win` 9 770 87 0 1026 1028 663 1440 900 14480
+~ Move `main_dlg_cur` `proe_win` 9 770 86 0 1026 1028 663 1440 900 14496
+~ Move `main_dlg_cur` `proe_win` 9 770 85 0 1026 1028 663 1440 900 14528
+~ Move `main_dlg_cur` `proe_win` 9 770 84 0 1026 1028 663 1440 900 14536
+~ Move `main_dlg_cur` `proe_win` 9 770 83 0 1026 1028 663 1440 900 14568
+~ Move `main_dlg_cur` `proe_win` 9 769 82 0 1538 1028 663 1440 900 15025
+~ Move `main_dlg_cur` `proe_win` 9 761 82 0 514 1028 663 1440 900 15033
+~ Move `main_dlg_cur` `proe_win` 9 749 82 0 514 1028 663 1440 900 15047
+~ Move `main_dlg_cur` `proe_win` 9 727 82 0 514 1028 663 1440 900 15064
+~ Move `main_dlg_cur` `proe_win` 9 687 82 0 514 1028 663 1440 900 15082
+~ Move `main_dlg_cur` `proe_win` 9 657 82 0 514 1028 663 1440 900 15097
+~ Move `main_dlg_cur` `proe_win` 9 633 82 0 514 1028 663 1440 900 15115
+~ Move `main_dlg_cur` `proe_win` 9 616 82 0 514 1028 663 1440 900 15131
+~ Move `main_dlg_cur` `proe_win` 9 605 80 0 1538 1028 663 1440 900 15148
+~ Move `main_dlg_cur` `proe_win` 9 602 80 0 514 1028 663 1440 900 15164
+~ Move `main_dlg_cur` `proe_win` 9 601 80 0 514 1028 663 1440 900 15182
+~ Move `main_dlg_cur` `proe_win` 9 599 80 0 514 1028 663 1440 900 15198
+~ Move `main_dlg_cur` `proe_win` 9 598 80 0 514 1028 663 1440 900 15214
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 598 80 0 0 1028 663 1440 900 15376
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

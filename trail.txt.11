@@ -1,0 +1,46 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2016 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 3972
+!	Application: Creo_Parametric
+!	Start date&time: 2016/12/22  15:42:39
+!	language: usascii
+!	machine type: i486_nt
+!	datecode: M010
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\traceback.log
+!end Exit Logger data.
+< 0 0.843852 1236 0 0 712 1366 0 0 768 13
+!mem_use INCREASE Blocks 612747, AppSize 46670176, SysSize 59229280
+< 0 0.634074 1117 0 0 535 1366 0 0 768 13
+< 0 0.634074 1005 0 0 535 1366 0 0 768 13
+!%CIWelcome to PTC Creo Parametric 3.0.
+#ASSEMBLY
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_ds_vrnyytistnri.asm.1
+< 2 0.118519 178 0 0 100 1366 0 0 768 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!22-Dec-16 15:42:50  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_ds_vrnyytistnri.asm.1
+!22-Dec-16 15:42:50  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\ram.prt.16
+!22-Dec-16 15:42:50  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\ram.prt.16
+!22-Dec-16 15:42:50  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\bllok.prt.1
+!22-Dec-16 15:42:50  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\bllok.prt.1
+!22-Dec-16 15:42:50  Start C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\vratildroga.prt.1
+!22-Dec-16 15:42:50  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\vratildroga.prt.1
+!22-Dec-16 15:42:50  End   C:\Documents and Settings\4114\Desktop\Marko Nikolic IV-1 ZNJ\Marko Nikolic\motor\motor_ds_vrnyytistnri.asm.1
+!%CI dbg_err_crash() - continuing from serious error (ORDER_DEBUG). 
+< 0 0.634074 978 0 0 535 1366 0 0 768 13
+!mem_use INCREASE Blocks 743639, AppSize 102431953, SysSize 121825896
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+~ Activate `main_dlg_cur` `main_dlg_cur`
+! Message Dialog: Warning
+!               : PTC Creo Parametric will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
